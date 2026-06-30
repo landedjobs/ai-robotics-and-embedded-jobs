@@ -1,6 +1,6 @@
 [
   {
-    "slug": "greenhouse-5229975008",
+    "dedupeKey": "greenhouse:5229975008",
     "company": "MatX",
     "companyDomain": "matx.com",
     "role": "Emulation Engineer",
@@ -35,7 +35,7 @@
     "posted": "2026-06-29T23:35:15.000Z"
   },
   {
-    "slug": "greenhouse-8031918",
+    "dedupeKey": "greenhouse:8031918",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Systems Modeling & Optimization Engineer",
@@ -63,7 +63,7 @@
     "posted": "2026-06-29T21:36:43.000Z"
   },
   {
-    "slug": "greenhouse-8031871",
+    "dedupeKey": "greenhouse:8031871",
     "company": "Nuro",
     "companyDomain": "nuro.ai",
     "role": "Head of Systems Engineering",
@@ -100,7 +100,7 @@
     "posted": "2026-06-29T18:03:38.000Z"
   },
   {
-    "slug": "greenhouse-4579319006",
+    "dedupeKey": "greenhouse:4579319006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Data Center Technician - Ellendale, ND",
@@ -127,7 +127,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-4686538006",
+    "dedupeKey": "greenhouse:4686538006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Data Center Technician - Orangeburg, NY",
@@ -156,7 +156,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-4686624006",
+    "dedupeKey": "greenhouse:4686624006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Data Center Technician - Parsippany, NJ",
@@ -186,7 +186,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-4688167006",
+    "dedupeKey": "greenhouse:4688167006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Electrical Engineer",
@@ -210,7 +210,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-4615564006",
+    "dedupeKey": "greenhouse:4615564006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Firmware Engineer, SPX",
@@ -241,7 +241,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-4685378006",
+    "dedupeKey": "greenhouse:4685378006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Hardware Engineer (Metal Classic)",
@@ -268,7 +268,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-4606485006",
+    "dedupeKey": "greenhouse:4606485006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Senior Electrical Engineer",
@@ -296,7 +296,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-4691088006",
+    "dedupeKey": "greenhouse:4691088006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Senior Firmware Engineer, FPGA",
@@ -340,7 +340,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-4452431006",
+    "dedupeKey": "greenhouse:4452431006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Senior Firmware Engineer, OpenBMC",
@@ -380,7 +380,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-4690512006",
+    "dedupeKey": "greenhouse:4690512006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Staff Specialist Field Engineer, Robotics",
@@ -414,7 +414,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-4651528006",
+    "dedupeKey": "greenhouse:4651528006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Staff Thermal Engineer",
@@ -440,7 +440,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-4687368006",
+    "dedupeKey": "greenhouse:4687368006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Supplier Quality Engineer (OEM/ODM, Thermal & Cooling)",
@@ -486,7 +486,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-4687824006",
+    "dedupeKey": "greenhouse:4687824006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Data Center Technician - Afton, TX",
@@ -512,7 +512,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-4652977006",
+    "dedupeKey": "greenhouse:4652977006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Data Center Technician – Express Your Interest",
@@ -539,7 +539,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-4686712006",
+    "dedupeKey": "greenhouse:4686712006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Hardware Engineering Manager",
@@ -566,7 +566,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-4617112006",
+    "dedupeKey": "greenhouse:4617112006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Hardware Engineer - Liquid Cooling",
@@ -596,7 +596,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "workday-jr0284897",
+    "dedupeKey": "workday:JR0284897",
     "company": "Intel",
     "companyDomain": "intel.com",
     "role": "Senior Physical Design Engineer (CPU)",
@@ -630,7 +630,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr0284896",
+    "dedupeKey": "workday:JR0284896",
     "company": "Intel",
     "companyDomain": "intel.com",
     "role": "Mid-level Physical Design Engineer CPU",
@@ -657,7 +657,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr0284922",
+    "dedupeKey": "workday:JR0284922",
     "company": "Intel",
     "companyDomain": "intel.com",
     "role": "High speed PHY System Architect",
@@ -689,7 +689,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr0285285",
+    "dedupeKey": "workday:JR0285285",
     "company": "Intel",
     "companyDomain": "intel.com",
     "role": "Design Engineer – AI SoC Development",
@@ -717,7 +717,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr0284783",
+    "dedupeKey": "workday:JR0284783",
     "company": "Intel",
     "companyDomain": "intel.com",
     "role": "Mechanical Tooling Engineer",
@@ -746,7 +746,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr0285284",
+    "dedupeKey": "workday:JR0285284",
     "company": "Intel",
     "companyDomain": "intel.com",
     "role": "Senior Design Engineer – AI SoC Development",
@@ -778,7 +778,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr0284150",
+    "dedupeKey": "workday:JR0284150",
     "company": "Intel",
     "companyDomain": "intel.com",
     "role": "Senior CPU Design Verification Engineer",
@@ -804,7 +804,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-2602900",
+    "dedupeKey": "workday:2602900",
     "company": "Marvell Semiconductor",
     "companyDomain": "marvell.com",
     "role": "IP Release Principal Engineer",
@@ -831,7 +831,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-2602885",
+    "dedupeKey": "workday:2602885",
     "company": "Marvell Semiconductor",
     "companyDomain": "marvell.com",
     "role": "Senior Staff Manager, Test Engineering",
@@ -856,7 +856,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr0281331",
+    "dedupeKey": "workday:JR0281331",
     "company": "Intel",
     "companyDomain": "intel.com",
     "role": "GPU Performance Engineer",
@@ -878,7 +878,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr0285292",
+    "dedupeKey": "workday:JR0285292",
     "company": "Intel",
     "companyDomain": "intel.com",
     "role": "Graduate Talent (ISCP SoC Front End Team)",
@@ -899,7 +899,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-j000697412",
+    "dedupeKey": "workday:J000697412",
     "company": "Aptivio",
     "companyDomain": "aptiv.io",
     "role": "Senior Design Engineer",
@@ -941,7 +941,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr-0018835",
+    "dedupeKey": "workday:JR-0018835",
     "company": "ArianeGroup",
     "companyDomain": "ariane.group",
     "role": "CDI – Ingénieur(e) expérimenté(e) analyse système mécanique de moteurs (H/F)",
@@ -966,7 +966,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2010852",
+    "dedupeKey": "workday:JR2010852",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior ASIC Physical Design Engineer, Netlisting",
@@ -993,7 +993,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2019775",
+    "dedupeKey": "workday:JR2019775",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Principal NIC Architect",
@@ -1015,7 +1015,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2019640",
+    "dedupeKey": "workday:JR2019640",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "IC System Level Testing Engineer",
@@ -1044,7 +1044,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2020435",
+    "dedupeKey": "workday:JR2020435",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior ASIC Hardware Design Engineer",
@@ -1070,7 +1070,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2020215",
+    "dedupeKey": "workday:JR2020215",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Mechanical Hardware Design Engineer, IC Product",
@@ -1097,7 +1097,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2020268",
+    "dedupeKey": "workday:JR2020268",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Mixed Signal Design Engineer",
@@ -1126,7 +1126,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2020258",
+    "dedupeKey": "workday:JR2020258",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Memory Subsystem Firmware Engineer",
@@ -1155,7 +1155,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2015788",
+    "dedupeKey": "workday:JR2015788",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Compute Kernel Architect, GPU Power",
@@ -1182,7 +1182,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2018780",
+    "dedupeKey": "workday:JR2018780",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior NPI Engineer",
@@ -1207,7 +1207,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2012971",
+    "dedupeKey": "workday:JR2012971",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "ASIC Floorplan Design Engineer - New College Grad 2026",
@@ -1236,7 +1236,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2019709",
+    "dedupeKey": "workday:JR2019709",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Validation and Qualification Engineer",
@@ -1263,7 +1263,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2003290",
+    "dedupeKey": "workday:JR2003290",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Chip Design Engineer",
@@ -1286,7 +1286,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2013523",
+    "dedupeKey": "workday:JR2013523",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Chip Design Verification Engineer",
@@ -1308,7 +1308,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2015960",
+    "dedupeKey": "workday:JR2015960",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Client Platform Architect",
@@ -1333,7 +1333,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2020267",
+    "dedupeKey": "workday:JR2020267",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Deep Learning Performance Architect",
@@ -1356,7 +1356,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2018536",
+    "dedupeKey": "workday:JR2018536",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior DFT Engineer - Hardware",
@@ -1382,7 +1382,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2014028",
+    "dedupeKey": "workday:JR2014028",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Hardware System Engineer",
@@ -1411,7 +1411,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2019510",
+    "dedupeKey": "workday:JR2019510",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Test Engineer - Autonomous Driving",
@@ -1442,7 +1442,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2019779",
+    "dedupeKey": "workday:JR2019779",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Hardware Compliance Engineer",
@@ -1469,7 +1469,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "greenhouse-7787866003",
+    "dedupeKey": "greenhouse:7787866003",
     "company": "Zipline",
     "companyDomain": "flyzipline.com",
     "role": "Head of Flight Test Engineering",
@@ -1499,7 +1499,7 @@
     "posted": "2026-06-28T15:42:31.000Z"
   },
   {
-    "slug": "greenhouse-5008965007",
+    "dedupeKey": "greenhouse:5008965007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Maintenance Technician ",
@@ -1518,7 +1518,7 @@
     "posted": "2026-06-28T09:40:37.000Z"
   },
   {
-    "slug": "greenhouse-5034007007",
+    "dedupeKey": "greenhouse:5034007007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Product Quality Engineer",
@@ -1544,7 +1544,7 @@
     "posted": "2026-06-28T09:40:34.000Z"
   },
   {
-    "slug": "greenhouse-5031240007",
+    "dedupeKey": "greenhouse:5031240007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Manufacturing Test Engineer",
@@ -1571,7 +1571,7 @@
     "posted": "2026-06-28T09:39:47.000Z"
   },
   {
-    "slug": "greenhouse-5014966007",
+    "dedupeKey": "greenhouse:5014966007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Manufacturing Engineer",
@@ -1591,7 +1591,7 @@
     "posted": "2026-06-28T09:39:43.000Z"
   },
   {
-    "slug": "greenhouse-5165260007",
+    "dedupeKey": "greenhouse:5165260007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Mechanical Manufacturing Engineer, Dive-XL",
@@ -1612,7 +1612,7 @@
     "posted": "2026-06-28T09:37:39.000Z"
   },
   {
-    "slug": "greenhouse-5161769007",
+    "dedupeKey": "greenhouse:5161769007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Manufacturing Engineer, Mechanical",
@@ -1633,7 +1633,7 @@
     "posted": "2026-06-28T09:37:39.000Z"
   },
   {
-    "slug": "greenhouse-5072097007",
+    "dedupeKey": "greenhouse:5072097007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Lead Manufacturing Test Technician",
@@ -1661,7 +1661,7 @@
     "posted": "2026-06-28T09:37:01.000Z"
   },
   {
-    "slug": "greenhouse-5071238007",
+    "dedupeKey": "greenhouse:5071238007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Product Sourcing Engineer, Dive-XL",
@@ -1684,7 +1684,7 @@
     "posted": "2026-06-28T09:36:57.000Z"
   },
   {
-    "slug": "greenhouse-5155249007",
+    "dedupeKey": "greenhouse:5155249007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Manufacturing Test Engineer, Electrical",
@@ -1702,7 +1702,7 @@
     "posted": "2026-06-28T09:36:54.000Z"
   },
   {
-    "slug": "greenhouse-5072064007",
+    "dedupeKey": "greenhouse:5072064007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Manufacturing Engineer, Electrical",
@@ -1723,7 +1723,7 @@
     "posted": "2026-06-28T09:36:54.000Z"
   },
   {
-    "slug": "greenhouse-5072075007",
+    "dedupeKey": "greenhouse:5072075007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Manufacturing Engineering Manager",
@@ -1747,7 +1747,7 @@
     "posted": "2026-06-28T09:36:49.000Z"
   },
   {
-    "slug": "greenhouse-5007201007",
+    "dedupeKey": "greenhouse:5007201007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Product Quality Engineer, Intelligence Systems",
@@ -1770,7 +1770,7 @@
     "posted": "2026-06-28T09:36:10.000Z"
   },
   {
-    "slug": "greenhouse-5034293007",
+    "dedupeKey": "greenhouse:5034293007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Product Quality Engineer - Edge Compute and Comms",
@@ -1792,7 +1792,7 @@
     "posted": "2026-06-28T09:35:22.000Z"
   },
   {
-    "slug": "greenhouse-5094634007",
+    "dedupeKey": "greenhouse:5094634007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Composite Technician (2nd Shift)",
@@ -1808,7 +1808,7 @@
     "posted": "2026-06-28T09:34:54.000Z"
   },
   {
-    "slug": "greenhouse-5072608007",
+    "dedupeKey": "greenhouse:5072608007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Electrical Engineer, Omen",
@@ -1845,7 +1845,7 @@
     "posted": "2026-06-28T09:31:55.000Z"
   },
   {
-    "slug": "greenhouse-5006275007",
+    "dedupeKey": "greenhouse:5006275007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Integration and Test Technician (Mechanical), Omen",
@@ -1867,7 +1867,7 @@
     "posted": "2026-06-28T09:31:52.000Z"
   },
   {
-    "slug": "greenhouse-5000167007",
+    "dedupeKey": "greenhouse:5000167007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Electromechanical Engineer, Connected Warfare",
@@ -1898,7 +1898,7 @@
     "posted": "2026-06-28T09:29:59.000Z"
   },
   {
-    "slug": "greenhouse-4999781007",
+    "dedupeKey": "greenhouse:4999781007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Mechanical Engineer, Maritime",
@@ -1933,7 +1933,7 @@
     "posted": "2026-06-28T09:29:33.000Z"
   },
   {
-    "slug": "greenhouse-5060066007",
+    "dedupeKey": "greenhouse:5060066007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Chief Engineer, Fury  Science & Tech",
@@ -1959,7 +1959,7 @@
     "posted": "2026-06-28T09:29:24.000Z"
   },
   {
-    "slug": "greenhouse-5044143007",
+    "dedupeKey": "greenhouse:5044143007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Electrical Engineer, MIL-Standards/Design",
@@ -1994,7 +1994,7 @@
     "posted": "2026-06-28T09:28:49.000Z"
   },
   {
-    "slug": "greenhouse-5065409007",
+    "dedupeKey": "greenhouse:5065409007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Staff Electrical Engineer, Explosives/Warheads",
@@ -2023,7 +2023,7 @@
     "posted": "2026-06-28T09:28:49.000Z"
   },
   {
-    "slug": "greenhouse-5139191007",
+    "dedupeKey": "greenhouse:5139191007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Electrical Engineer, Generalist (Schematics Design/Embedded Systems) ",
@@ -2055,7 +2055,7 @@
     "posted": "2026-06-28T09:28:49.000Z"
   },
   {
-    "slug": "greenhouse-4991170007",
+    "dedupeKey": "greenhouse:4991170007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Electrical Engineer, Missiles/PCBs ",
@@ -2096,7 +2096,7 @@
     "posted": "2026-06-28T09:28:49.000Z"
   },
   {
-    "slug": "greenhouse-5139203007",
+    "dedupeKey": "greenhouse:5139203007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Staff Electrical Engineer (Generalist) ",
@@ -2128,7 +2128,7 @@
     "posted": "2026-06-28T09:28:49.000Z"
   },
   {
-    "slug": "greenhouse-5145243007",
+    "dedupeKey": "greenhouse:5145243007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Electrical Engineer",
@@ -2149,7 +2149,7 @@
     "posted": "2026-06-28T09:28:26.000Z"
   },
   {
-    "slug": "greenhouse-5175041007",
+    "dedupeKey": "greenhouse:5175041007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Electrical Engineer, Space",
@@ -2170,7 +2170,7 @@
     "posted": "2026-06-28T09:28:26.000Z"
   },
   {
-    "slug": "greenhouse-5175042007",
+    "dedupeKey": "greenhouse:5175042007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Staff Electrical Engineer, Space",
@@ -2199,7 +2199,7 @@
     "posted": "2026-06-28T09:28:26.000Z"
   },
   {
-    "slug": "greenhouse-5167159007",
+    "dedupeKey": "greenhouse:5167159007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Optical Engineer, Design & Architecture",
@@ -2223,7 +2223,7 @@
     "posted": "2026-06-28T09:28:22.000Z"
   },
   {
-    "slug": "greenhouse-5032033007",
+    "dedupeKey": "greenhouse:5032033007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Development Test Engineer, Space Vehicle",
@@ -2245,7 +2245,7 @@
     "posted": "2026-06-28T09:26:13.000Z"
   },
   {
-    "slug": "greenhouse-4984529007",
+    "dedupeKey": "greenhouse:4984529007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Staff Manufacturing Engineer, Intelligence Systems ",
@@ -2263,7 +2263,7 @@
     "posted": "2026-06-28T09:25:27.000Z"
   },
   {
-    "slug": "greenhouse-4965592007",
+    "dedupeKey": "greenhouse:4965592007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Staff Reliability Engineer, Aircraft Systems",
@@ -2287,7 +2287,7 @@
     "posted": "2026-06-28T09:25:12.000Z"
   },
   {
-    "slug": "greenhouse-5082537007",
+    "dedupeKey": "greenhouse:5082537007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Explosives System Safety Engineer",
@@ -2311,7 +2311,7 @@
     "posted": "2026-06-28T09:24:33.000Z"
   },
   {
-    "slug": "greenhouse-4955741007",
+    "dedupeKey": "greenhouse:4955741007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Manager, Missiles System Safety Engineering",
@@ -2337,7 +2337,7 @@
     "posted": "2026-06-28T09:24:29.000Z"
   },
   {
-    "slug": "greenhouse-4954300007",
+    "dedupeKey": "greenhouse:4954300007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Mass Properties Engineer, Air Vehicles",
@@ -2357,7 +2357,7 @@
     "posted": "2026-06-28T09:24:25.000Z"
   },
   {
-    "slug": "greenhouse-4954307007",
+    "dedupeKey": "greenhouse:4954307007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Fuel Systems Engineer, Air Vehicles",
@@ -2375,7 +2375,7 @@
     "posted": "2026-06-28T09:24:22.000Z"
   },
   {
-    "slug": "greenhouse-4962385007",
+    "dedupeKey": "greenhouse:4962385007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Deputy Head of Production, Autonomous Airpower (Fury)",
@@ -2395,7 +2395,7 @@
     "posted": "2026-06-28T09:23:57.000Z"
   },
   {
-    "slug": "greenhouse-4951384007",
+    "dedupeKey": "greenhouse:4951384007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Dev Fab Technician",
@@ -2417,7 +2417,7 @@
     "posted": "2026-06-28T09:23:53.000Z"
   },
   {
-    "slug": "greenhouse-5093330007",
+    "dedupeKey": "greenhouse:5093330007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "PCB Layout Designer, Intelligence Systems",
@@ -2444,7 +2444,7 @@
     "posted": "2026-06-28T09:23:49.000Z"
   },
   {
-    "slug": "greenhouse-5042141007",
+    "dedupeKey": "greenhouse:5042141007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior PCB Layout Designer, Intelligence Systems",
@@ -2471,7 +2471,7 @@
     "posted": "2026-06-28T09:23:49.000Z"
   },
   {
-    "slug": "greenhouse-4955439007",
+    "dedupeKey": "greenhouse:4955439007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Vehicle Systems Lead",
@@ -2495,7 +2495,7 @@
     "posted": "2026-06-28T09:23:24.000Z"
   },
   {
-    "slug": "greenhouse-5059869007",
+    "dedupeKey": "greenhouse:5059869007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Electrical Engineer, Avionics Design",
@@ -2525,7 +2525,7 @@
     "posted": "2026-06-28T09:22:40.000Z"
   },
   {
-    "slug": "greenhouse-5059872007",
+    "dedupeKey": "greenhouse:5059872007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Electrical Engineer, Avionics Design",
@@ -2553,7 +2553,7 @@
     "posted": "2026-06-28T09:22:40.000Z"
   },
   {
-    "slug": "greenhouse-5156175007",
+    "dedupeKey": "greenhouse:5156175007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Electrical Engineer ",
@@ -2575,7 +2575,7 @@
     "posted": "2026-06-28T09:22:14.000Z"
   },
   {
-    "slug": "greenhouse-4934341007",
+    "dedupeKey": "greenhouse:4934341007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Systems Engineer, Sentry Tower",
@@ -2601,7 +2601,7 @@
     "posted": "2026-06-28T09:22:01.000Z"
   },
   {
-    "slug": "greenhouse-5051350007",
+    "dedupeKey": "greenhouse:5051350007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Systems Engineer, Surveillance Tower",
@@ -2624,7 +2624,7 @@
     "posted": "2026-06-28T09:22:01.000Z"
   },
   {
-    "slug": "greenhouse-4927598007",
+    "dedupeKey": "greenhouse:4927598007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Robotics Software Engineer, Sentry Tower",
@@ -2655,7 +2655,7 @@
     "posted": "2026-06-28T09:21:33.000Z"
   },
   {
-    "slug": "greenhouse-4924593007",
+    "dedupeKey": "greenhouse:4924593007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Electro-Mechanical Engineer,  R&D",
@@ -2699,7 +2699,7 @@
     "posted": "2026-06-28T09:20:10.000Z"
   },
   {
-    "slug": "greenhouse-4972118007",
+    "dedupeKey": "greenhouse:4972118007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Mechanical Engineer, Omen",
@@ -2721,7 +2721,7 @@
     "posted": "2026-06-28T09:20:06.000Z"
   },
   {
-    "slug": "greenhouse-4871750007",
+    "dedupeKey": "greenhouse:4871750007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Experimental Test Pilot, Air Dominance & Strike",
@@ -2741,7 +2741,7 @@
     "posted": "2026-06-28T09:19:49.000Z"
   },
   {
-    "slug": "greenhouse-4905256007",
+    "dedupeKey": "greenhouse:4905256007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Staff Product Quality Engineer",
@@ -2764,7 +2764,7 @@
     "posted": "2026-06-28T09:19:43.000Z"
   },
   {
-    "slug": "greenhouse-5012327007",
+    "dedupeKey": "greenhouse:5012327007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Systems Architect, EW",
@@ -2785,7 +2785,7 @@
     "posted": "2026-06-28T09:19:30.000Z"
   },
   {
-    "slug": "greenhouse-5131727007",
+    "dedupeKey": "greenhouse:5131727007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Flight Test Engineer, Group 5",
@@ -2809,7 +2809,7 @@
     "posted": "2026-06-28T09:19:04.000Z"
   },
   {
-    "slug": "greenhouse-4833942007",
+    "dedupeKey": "greenhouse:4833942007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior RF Test Engineer, Intelligence Systems",
@@ -2834,7 +2834,7 @@
     "posted": "2026-06-28T09:17:40.000Z"
   },
   {
-    "slug": "greenhouse-4905167007",
+    "dedupeKey": "greenhouse:4905167007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Electrical Engineer, Sentry Hardware",
@@ -2867,7 +2867,7 @@
     "posted": "2026-06-28T09:17:26.000Z"
   },
   {
-    "slug": "greenhouse-5153032007",
+    "dedupeKey": "greenhouse:5153032007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Electrical Engineer, Surveillance Tower",
@@ -2893,7 +2893,7 @@
     "posted": "2026-06-28T09:17:26.000Z"
   },
   {
-    "slug": "greenhouse-5132437007",
+    "dedupeKey": "greenhouse:5132437007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Electrical Engineer, Counter Intrusion",
@@ -2926,7 +2926,7 @@
     "posted": "2026-06-28T09:17:26.000Z"
   },
   {
-    "slug": "greenhouse-5043498007",
+    "dedupeKey": "greenhouse:5043498007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Product Sourcing Engineer",
@@ -2947,7 +2947,7 @@
     "posted": "2026-06-28T09:17:12.000Z"
   },
   {
-    "slug": "greenhouse-5164880007",
+    "dedupeKey": "greenhouse:5164880007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Product Sourcing Engineer",
@@ -2973,7 +2973,7 @@
     "posted": "2026-06-28T09:17:12.000Z"
   },
   {
-    "slug": "greenhouse-5173517007",
+    "dedupeKey": "greenhouse:5173517007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior BOM Sourcing Engineer",
@@ -2996,7 +2996,7 @@
     "posted": "2026-06-28T09:17:12.000Z"
   },
   {
-    "slug": "greenhouse-5164720007",
+    "dedupeKey": "greenhouse:5164720007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Mechanical Designer",
@@ -3014,7 +3014,7 @@
     "posted": "2026-06-28T09:17:03.000Z"
   },
   {
-    "slug": "greenhouse-5163418007",
+    "dedupeKey": "greenhouse:5163418007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Environmental Test Manager",
@@ -3035,7 +3035,7 @@
     "posted": "2026-06-28T09:16:50.000Z"
   },
   {
-    "slug": "greenhouse-4801675007",
+    "dedupeKey": "greenhouse:4801675007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Environmental Test Manager",
@@ -3060,7 +3060,7 @@
     "posted": "2026-06-28T09:16:50.000Z"
   },
   {
-    "slug": "greenhouse-4801617007",
+    "dedupeKey": "greenhouse:4801617007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Systems Engineering Lead, Air Vehicle Systems",
@@ -3092,7 +3092,7 @@
     "posted": "2026-06-28T09:16:46.000Z"
   },
   {
-    "slug": "greenhouse-4791848007",
+    "dedupeKey": "greenhouse:4791848007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Manager - Test Automation Engineering",
@@ -3119,7 +3119,7 @@
     "posted": "2026-06-28T09:16:22.000Z"
   },
   {
-    "slug": "greenhouse-4789633007",
+    "dedupeKey": "greenhouse:4789633007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Staff Firmware Engineer",
@@ -3145,7 +3145,7 @@
     "posted": "2026-06-28T09:16:09.000Z"
   },
   {
-    "slug": "greenhouse-5038179007",
+    "dedupeKey": "greenhouse:5038179007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Staff RF Antenna Engineer, Electronic Warfare",
@@ -3165,7 +3165,7 @@
     "posted": "2026-06-28T09:15:05.000Z"
   },
   {
-    "slug": "greenhouse-5070490007",
+    "dedupeKey": "greenhouse:5070490007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Flight Test Engineer, Air Dominance & Strike",
@@ -3193,7 +3193,7 @@
     "posted": "2026-06-28T09:14:46.000Z"
   },
   {
-    "slug": "greenhouse-5117963007",
+    "dedupeKey": "greenhouse:5117963007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Flight Test Engineer, Air Dominance & Strike",
@@ -3223,7 +3223,7 @@
     "posted": "2026-06-28T09:14:46.000Z"
   },
   {
-    "slug": "greenhouse-5108422007",
+    "dedupeKey": "greenhouse:5108422007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Principal Telemetry & Instrumentation Architect",
@@ -3248,7 +3248,7 @@
     "posted": "2026-06-28T09:14:17.000Z"
   },
   {
-    "slug": "greenhouse-4685086007",
+    "dedupeKey": "greenhouse:4685086007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Staff Product Quality Engineer, RoadRunner",
@@ -3274,7 +3274,7 @@
     "posted": "2026-06-28T09:14:09.000Z"
   },
   {
-    "slug": "greenhouse-4687724007",
+    "dedupeKey": "greenhouse:4687724007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Electrical Engineer, Maneuver Dominance",
@@ -3306,7 +3306,7 @@
     "posted": "2026-06-28T09:14:05.000Z"
   },
   {
-    "slug": "greenhouse-5045972007",
+    "dedupeKey": "greenhouse:5045972007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Airborne Payload Integration Engineer, Electronic Warfare",
@@ -3333,7 +3333,7 @@
     "posted": "2026-06-28T09:13:53.000Z"
   },
   {
-    "slug": "greenhouse-5016965007",
+    "dedupeKey": "greenhouse:5016965007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Payload Integration Engineer, Electronic Warfare",
@@ -3356,7 +3356,7 @@
     "posted": "2026-06-28T09:13:53.000Z"
   },
   {
-    "slug": "greenhouse-4685796007",
+    "dedupeKey": "greenhouse:4685796007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Guidance, Navigation & Control (GNC) Engineer - Navigation and Estimation- Air Dominance & Strike",
@@ -3379,7 +3379,7 @@
     "posted": "2026-06-28T09:13:45.000Z"
   },
   {
-    "slug": "greenhouse-5018300007",
+    "dedupeKey": "greenhouse:5018300007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Mechanical Engineer, Thermal Analysis",
@@ -3400,7 +3400,7 @@
     "posted": "2026-06-28T09:13:29.000Z"
   },
   {
-    "slug": "greenhouse-5174004007",
+    "dedupeKey": "greenhouse:5174004007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Thermal Analyst",
@@ -3423,7 +3423,7 @@
     "posted": "2026-06-28T09:13:29.000Z"
   },
   {
-    "slug": "greenhouse-5174008007",
+    "dedupeKey": "greenhouse:5174008007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Thermal Engineer",
@@ -3446,7 +3446,7 @@
     "posted": "2026-06-28T09:13:29.000Z"
   },
   {
-    "slug": "greenhouse-4774251007",
+    "dedupeKey": "greenhouse:4774251007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Product Quality Engineer",
@@ -3478,7 +3478,7 @@
     "posted": "2026-06-28T09:13:25.000Z"
   },
   {
-    "slug": "greenhouse-4653445007",
+    "dedupeKey": "greenhouse:4653445007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Staff Flight Avionics Specialist",
@@ -3505,7 +3505,7 @@
     "posted": "2026-06-28T09:13:20.000Z"
   },
   {
-    "slug": "greenhouse-4799423007",
+    "dedupeKey": "greenhouse:4799423007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "\tCNC Programmer",
@@ -3526,7 +3526,7 @@
     "posted": "2026-06-28T09:13:15.000Z"
   },
   {
-    "slug": "greenhouse-4772830007",
+    "dedupeKey": "greenhouse:4772830007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Robotics Software Engineer",
@@ -3550,7 +3550,7 @@
     "posted": "2026-06-28T09:13:05.000Z"
   },
   {
-    "slug": "greenhouse-5074293007",
+    "dedupeKey": "greenhouse:5074293007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Robotics Software Engineer",
@@ -3575,7 +3575,7 @@
     "posted": "2026-06-28T09:13:05.000Z"
   },
   {
-    "slug": "greenhouse-4651508007",
+    "dedupeKey": "greenhouse:4651508007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Mechanical Engineer, Omen",
@@ -3598,7 +3598,7 @@
     "posted": "2026-06-28T09:12:43.000Z"
   },
   {
-    "slug": "greenhouse-4821061007",
+    "dedupeKey": "greenhouse:4821061007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Structural Analysis Engineer, Space",
@@ -3623,7 +3623,7 @@
     "posted": "2026-06-28T09:12:37.000Z"
   },
   {
-    "slug": "greenhouse-5147072007",
+    "dedupeKey": "greenhouse:5147072007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Head of Manufacturing Test Engineering",
@@ -3652,7 +3652,7 @@
     "posted": "2026-06-28T09:12:16.000Z"
   },
   {
-    "slug": "greenhouse-4768862007",
+    "dedupeKey": "greenhouse:4768862007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Head of Production, Space",
@@ -3671,7 +3671,7 @@
     "posted": "2026-06-28T09:11:31.000Z"
   },
   {
-    "slug": "greenhouse-5160452007",
+    "dedupeKey": "greenhouse:5160452007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Director, Manufacturing Engineering (Core Tech)",
@@ -3689,7 +3689,7 @@
     "posted": "2026-06-28T09:11:26.000Z"
   },
   {
-    "slug": "greenhouse-5100345007",
+    "dedupeKey": "greenhouse:5100345007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Manager Digital Hardware Engineering (FPGA/VHDL & PCB Integration)",
@@ -3717,7 +3717,7 @@
     "posted": "2026-06-28T09:10:48.000Z"
   },
   {
-    "slug": "greenhouse-5038267007",
+    "dedupeKey": "greenhouse:5038267007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Principal Digital Hardware Engineer (PCBs/FPGAs/HDL)",
@@ -3748,7 +3748,7 @@
     "posted": "2026-06-28T09:10:48.000Z"
   },
   {
-    "slug": "greenhouse-5100348007",
+    "dedupeKey": "greenhouse:5100348007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Manager - Electrical Engineering, Compute HW & HDL",
@@ -3774,7 +3774,7 @@
     "posted": "2026-06-28T09:10:48.000Z"
   },
   {
-    "slug": "greenhouse-4809295007",
+    "dedupeKey": "greenhouse:4809295007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Sr. Mechatronics Engineer, Electrical",
@@ -3805,7 +3805,7 @@
     "posted": "2026-06-28T09:10:43.000Z"
   },
   {
-    "slug": "greenhouse-5019304007",
+    "dedupeKey": "greenhouse:5019304007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Sr. Electrical Engineer (PCBs/Sensors/Actuators)",
@@ -3835,7 +3835,7 @@
     "posted": "2026-06-28T09:10:43.000Z"
   },
   {
-    "slug": "greenhouse-4833640007",
+    "dedupeKey": "greenhouse:4833640007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Mechatronics Engineer, FW/MCUs/Controls",
@@ -3864,7 +3864,7 @@
     "posted": "2026-06-28T09:10:43.000Z"
   },
   {
-    "slug": "greenhouse-4833637007",
+    "dedupeKey": "greenhouse:4833637007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Electro-Mechanical Engineer, PCBs/Motor Controls",
@@ -3889,7 +3889,7 @@
     "posted": "2026-06-28T09:10:43.000Z"
   },
   {
-    "slug": "greenhouse-5084723007",
+    "dedupeKey": "greenhouse:5084723007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Chief Engineer",
@@ -3914,7 +3914,7 @@
     "posted": "2026-06-28T09:10:35.000Z"
   },
   {
-    "slug": "ashby-b7ffdc4e-f33f-4a52-b803-f46db24a788f",
+    "dedupeKey": "ashby:b7ffdc4e-f33f-4a52-b803-f46db24a788f",
     "company": "Sentradel",
     "companyDomain": "sentradel.com",
     "role": "Shop Assistant ",
@@ -3931,7 +3931,7 @@
     "posted": "2026-06-28T02:48:23.353Z"
   },
   {
-    "slug": "workday-jr0282138",
+    "dedupeKey": "workday:JR0282138",
     "company": "Intel",
     "companyDomain": "intel.com",
     "role": "Experienced Logic Design Engineer",
@@ -3955,7 +3955,7 @@
     "posted": "2026-06-28T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2001139",
+    "dedupeKey": "workday:JR2001139",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Firmware PHY Verification Engineer",
@@ -3982,7 +3982,7 @@
     "posted": "2026-06-28T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2013122",
+    "dedupeKey": "workday:JR2013122",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Firmware Design Engineer, Optics",
@@ -4013,7 +4013,7 @@
     "posted": "2026-06-28T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2019125",
+    "dedupeKey": "workday:JR2019125",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "IC Reliability Practical Engineer",
@@ -4044,7 +4044,7 @@
     "posted": "2026-06-28T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2003882",
+    "dedupeKey": "workday:JR2003882",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Chip Architect",
@@ -4067,7 +4067,7 @@
     "posted": "2026-06-28T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2002154",
+    "dedupeKey": "workday:JR2002154",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Mechanical Engineer",
@@ -4098,7 +4098,7 @@
     "posted": "2026-06-28T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2010808",
+    "dedupeKey": "workday:JR2010808",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Physical Design Backend Engineer",
@@ -4124,7 +4124,7 @@
     "posted": "2026-06-28T00:00:00.000Z"
   },
   {
-    "slug": "greenhouse-5232484008",
+    "dedupeKey": "greenhouse:5232484008",
     "company": "Icarus",
     "companyDomain": "icarus.one",
     "role": "Technician",
@@ -4144,7 +4144,7 @@
     "posted": "2026-06-27T21:21:22.000Z"
   },
   {
-    "slug": "greenhouse-6099756004",
+    "dedupeKey": "greenhouse:6099756004",
     "company": "IonQ",
     "companyDomain": "ionq.com",
     "role": "Manager, Component Test & Infrastructure",
@@ -4167,7 +4167,7 @@
     "posted": "2026-06-27T16:10:41.000Z"
   },
   {
-    "slug": "ashby-f5ab8eb0-0983-4bbb-a4c5-4ac020abd3d4",
+    "dedupeKey": "ashby:f5ab8eb0-0983-4bbb-a4c5-4ac020abd3d4",
     "company": "Rune Technologies",
     "companyDomain": "runetech.co",
     "role": "Head of Hardware",
@@ -4188,7 +4188,7 @@
     "posted": "2026-06-27T15:31:01.062Z"
   },
   {
-    "slug": "ashby-1858e85e-c3be-4d05-9a43-083a84ba3255",
+    "dedupeKey": "ashby:1858e85e-c3be-4d05-9a43-083a84ba3255",
     "company": "Matic",
     "companyDomain": "maticrobots.com",
     "role": "Reliability Design Engineer - Motors, Mechanisms and Electronics",
@@ -4222,7 +4222,7 @@
     "posted": "2026-06-27T02:36:11.539Z"
   },
   {
-    "slug": "greenhouse-5175825007",
+    "dedupeKey": "greenhouse:5175825007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Micro-electronics Technician",
@@ -4240,7 +4240,7 @@
     "posted": "2026-06-27T00:20:29.000Z"
   },
   {
-    "slug": "greenhouse-5175824007",
+    "dedupeKey": "greenhouse:5175824007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Camera Test Engineer",
@@ -4262,7 +4262,7 @@
     "posted": "2026-06-27T00:18:46.000Z"
   },
   {
-    "slug": "greenhouse-5115021007",
+    "dedupeKey": "greenhouse:5115021007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Aviation Maintenance Engineer",
@@ -4281,7 +4281,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5029722007",
+    "dedupeKey": "greenhouse:5029722007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "BOM Sourcing Engineer, Intelligence Systems & Space (Active Clearance)",
@@ -4306,7 +4306,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5087403007",
+    "dedupeKey": "greenhouse:5087403007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Chief Engineer, Autonomous Airpower",
@@ -4338,7 +4338,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5125833007",
+    "dedupeKey": "greenhouse:5125833007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Composites Shop Technician",
@@ -4361,7 +4361,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5173937007",
+    "dedupeKey": "greenhouse:5173937007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Electrical CAD Librarian",
@@ -4381,7 +4381,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-4959646007",
+    "dedupeKey": "greenhouse:4959646007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Electrical Engineer, Generalist",
@@ -4408,7 +4408,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5153003007",
+    "dedupeKey": "greenhouse:5153003007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Electrical Engineering Technician",
@@ -4431,7 +4431,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5129394007",
+    "dedupeKey": "greenhouse:5129394007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Electrical Engineer, Manufacturing Test (Sentry) ",
@@ -4455,7 +4455,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5115318007",
+    "dedupeKey": "greenhouse:5115318007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Electrical Engineer, Sustainment",
@@ -4485,7 +4485,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5114702007",
+    "dedupeKey": "greenhouse:5114702007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Electrical Integration Engineer, Air Vehicle",
@@ -4506,7 +4506,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5140192007",
+    "dedupeKey": "greenhouse:5140192007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Electrical Technician, Omen",
@@ -4526,7 +4526,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5047093007",
+    "dedupeKey": "greenhouse:5047093007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Electrical Test Engineer, Air Dominance and Strike",
@@ -4549,7 +4549,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5134304007",
+    "dedupeKey": "greenhouse:5134304007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Electromechanical Assembly Technician",
@@ -4578,7 +4578,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5032254007",
+    "dedupeKey": "greenhouse:5032254007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Electronics Production Technician",
@@ -4600,7 +4600,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5062078007",
+    "dedupeKey": "greenhouse:5062078007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Engineering Program Manager, Actuation Systems",
@@ -4631,7 +4631,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5132680007",
+    "dedupeKey": "greenhouse:5132680007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "EOL Test Technician, Barracuda",
@@ -4651,7 +4651,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5037021007",
+    "dedupeKey": "greenhouse:5037021007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Field Test Engineer, Maritime ",
@@ -4668,7 +4668,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5147168007",
+    "dedupeKey": "greenhouse:5147168007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Flight Sciences Engineer",
@@ -4690,7 +4690,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5090852007",
+    "dedupeKey": "greenhouse:5090852007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Flight Test Engineer",
@@ -4710,7 +4710,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5160632007",
+    "dedupeKey": "greenhouse:5160632007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Flight Test Engineer - Advanced Effects",
@@ -4731,7 +4731,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5032414007",
+    "dedupeKey": "greenhouse:5032414007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Flight Test & Integration Specialist",
@@ -4754,7 +4754,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5131080007",
+    "dedupeKey": "greenhouse:5131080007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Flight Test Operator",
@@ -4772,7 +4772,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5159273007",
+    "dedupeKey": "greenhouse:5159273007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "FPGA Verification Engineer, Air Vehicles",
@@ -4796,7 +4796,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5159698007",
+    "dedupeKey": "greenhouse:5159698007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "GNC Engineer",
@@ -4822,7 +4822,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5024955007",
+    "dedupeKey": "greenhouse:5024955007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Guidance Navigation and Control (GNC) Engineer, Air Dominance & Strike - Advanced Effects",
@@ -4843,7 +4843,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5125001007",
+    "dedupeKey": "greenhouse:5125001007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Head of Production, Launched Effects",
@@ -4863,7 +4863,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5166825007",
+    "dedupeKey": "greenhouse:5166825007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Hydraulic Assembly Technician",
@@ -4883,7 +4883,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5166743007",
+    "dedupeKey": "greenhouse:5166743007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Integration and Test Engineer (Iron Bird), Omen",
@@ -4902,7 +4902,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5166318007",
+    "dedupeKey": "greenhouse:5166318007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Integration and Test Lead (Powertrain), Omen",
@@ -4931,7 +4931,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5072324007",
+    "dedupeKey": "greenhouse:5072324007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Lead, Design for Manufacturability Engineering",
@@ -4959,7 +4959,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5081056007",
+    "dedupeKey": "greenhouse:5081056007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Lead Manufacturing Engineer, Electromagnetic Warfare",
@@ -4981,7 +4981,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5155109007",
+    "dedupeKey": "greenhouse:5155109007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Lead Production Technician, Electromagnetic Warfare",
@@ -5001,7 +5001,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-4252545007",
+    "dedupeKey": "greenhouse:4252545007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Low Observables Engineer, Mission Systems ",
@@ -5026,7 +5026,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5137892007",
+    "dedupeKey": "greenhouse:5137892007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Machinist ",
@@ -5048,7 +5048,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5140918007",
+    "dedupeKey": "greenhouse:5140918007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Manager, Manufacturing Test Engineering",
@@ -5070,7 +5070,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-4854770007",
+    "dedupeKey": "greenhouse:4854770007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Manufacturing Engineer ",
@@ -5087,7 +5087,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5079278007",
+    "dedupeKey": "greenhouse:5079278007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Manufacturing Engineer, Connected Warfare ",
@@ -5107,7 +5107,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5119787007",
+    "dedupeKey": "greenhouse:5119787007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Manufacturing Engineer, Electronic Warfare",
@@ -5133,7 +5133,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5065649007",
+    "dedupeKey": "greenhouse:5065649007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Manufacturing Engineering Manager, Fury",
@@ -5154,7 +5154,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5085941007",
+    "dedupeKey": "greenhouse:5085941007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": " Manufacturing Engineer, Production, Sentry",
@@ -5174,7 +5174,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5063282007",
+    "dedupeKey": "greenhouse:5063282007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Manufacturing Equipment Engineer, Intelligence Systems",
@@ -5195,7 +5195,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5094946007",
+    "dedupeKey": "greenhouse:5094946007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Manufacturing Process Development Engineer, Intelligence Systems",
@@ -5216,7 +5216,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5080535007",
+    "dedupeKey": "greenhouse:5080535007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Manufacturing Test Engineer, Intelligence Systems",
@@ -5237,7 +5237,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-4737768007",
+    "dedupeKey": "greenhouse:4737768007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Manufacturing Test Technician",
@@ -5256,7 +5256,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5125917007",
+    "dedupeKey": "greenhouse:5125917007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Mechanical Engineer",
@@ -5280,7 +5280,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5010389007",
+    "dedupeKey": "greenhouse:5010389007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Mechanical Engineer, Drones",
@@ -5309,7 +5309,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5116599007",
+    "dedupeKey": "greenhouse:5116599007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Mechanical Engineer, Maneuver Dominance",
@@ -5335,7 +5335,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5026759007",
+    "dedupeKey": "greenhouse:5026759007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Mechanical Engineer,  Roadrunner",
@@ -5355,7 +5355,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5067225007",
+    "dedupeKey": "greenhouse:5067225007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Mechanical Engineer, Subsystem Integration and Test",
@@ -5378,7 +5378,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5069228007",
+    "dedupeKey": "greenhouse:5069228007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Mechatronics Engineer, Maritime",
@@ -5407,7 +5407,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5171375007",
+    "dedupeKey": "greenhouse:5171375007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Micro-electronics Technician",
@@ -5428,7 +5428,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-4984579007",
+    "dedupeKey": "greenhouse:4984579007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Modeling and Simulation Engineer, Space",
@@ -5456,7 +5456,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5116367007",
+    "dedupeKey": "greenhouse:5116367007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "NPI Engineer, Actuators",
@@ -5475,7 +5475,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5156079007",
+    "dedupeKey": "greenhouse:5156079007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Process Engineer",
@@ -5496,7 +5496,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5072894007",
+    "dedupeKey": "greenhouse:5072894007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Production Technician, Drones",
@@ -5524,7 +5524,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5072843007",
+    "dedupeKey": "greenhouse:5072843007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Production Technician, Menace",
@@ -5548,7 +5548,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-4691905007",
+    "dedupeKey": "greenhouse:4691905007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Production Technician - SkillBridge",
@@ -5577,7 +5577,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5152403007",
+    "dedupeKey": "greenhouse:5152403007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Product Line Chief Engineer",
@@ -5601,7 +5601,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5121661007",
+    "dedupeKey": "greenhouse:5121661007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Product Quality Engineer - 2nd Shift",
@@ -5626,7 +5626,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5130075007",
+    "dedupeKey": "greenhouse:5130075007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Product Quality Engineer (or Senior), Dive-XL",
@@ -5651,7 +5651,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5091256007",
+    "dedupeKey": "greenhouse:5091256007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Product Sourcing Engineer, Maritime",
@@ -5674,7 +5674,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5145334007",
+    "dedupeKey": "greenhouse:5145334007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Project Engineer - Mission Autonomy",
@@ -5700,7 +5700,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5123459007",
+    "dedupeKey": "greenhouse:5123459007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Quality Inspector (Second Shift), Intelligence Systems",
@@ -5724,7 +5724,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5034295007",
+    "dedupeKey": "greenhouse:5034295007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Quality Specialist",
@@ -5745,7 +5745,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5175619007",
+    "dedupeKey": "greenhouse:5175619007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Quality Specialist, EW",
@@ -5768,7 +5768,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5149286007",
+    "dedupeKey": "greenhouse:5149286007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Quality Specialist, Roadrunner",
@@ -5788,7 +5788,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5167915007",
+    "dedupeKey": "greenhouse:5167915007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Reliability Engineer ",
@@ -5811,7 +5811,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5136834007",
+    "dedupeKey": "greenhouse:5136834007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Robotics & Simulation Engineer, Discovery ",
@@ -5834,7 +5834,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-4674090007",
+    "dedupeKey": "greenhouse:4674090007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Robotics Software Engineer, Air Vehicle Autonomy",
@@ -5859,7 +5859,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5051580007",
+    "dedupeKey": "greenhouse:5051580007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Robotics Software Engineer, Maritime",
@@ -5884,7 +5884,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5047306007",
+    "dedupeKey": "greenhouse:5047306007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "SEIT Lead (Omen - UAE)",
@@ -5912,7 +5912,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5174237007",
+    "dedupeKey": "greenhouse:5174237007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Aerodynamicist, Omen",
@@ -5932,7 +5932,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5154491007",
+    "dedupeKey": "greenhouse:5154491007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Automation Engineer, Intelligence Systems",
@@ -5956,7 +5956,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5145797007",
+    "dedupeKey": "greenhouse:5145797007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Avionics Maintenance Engineer - Advanced Effects",
@@ -5978,7 +5978,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5167055007",
+    "dedupeKey": "greenhouse:5167055007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Body Mechanical Engineer",
@@ -6002,7 +6002,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5029721007",
+    "dedupeKey": "greenhouse:5029721007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior BOM Sourcing Engineer, Intelligence Systems & Space (Active Clearance)",
@@ -6025,7 +6025,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5038023007",
+    "dedupeKey": "greenhouse:5038023007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Controls Engineer, Manufacturing Automation ",
@@ -6052,7 +6052,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5085036007",
+    "dedupeKey": "greenhouse:5085036007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Electrical Engineer",
@@ -6072,7 +6072,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5160053007",
+    "dedupeKey": "greenhouse:5160053007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Electrical Engineer, Air Vehicle Lead",
@@ -6096,7 +6096,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5016709007",
+    "dedupeKey": "greenhouse:5016709007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Electrical Engineer, Drones",
@@ -6116,7 +6116,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5094334007",
+    "dedupeKey": "greenhouse:5094334007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Electrical Engineering Technician, Drones",
@@ -6137,7 +6137,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-4987912007",
+    "dedupeKey": "greenhouse:4987912007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Electrical Engineer, Manufacturing Test ",
@@ -6162,7 +6162,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5103305007",
+    "dedupeKey": "greenhouse:5103305007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": " Senior Electrical Test Automation Engineer, Intelligence Systems ",
@@ -6191,7 +6191,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5127827007",
+    "dedupeKey": "greenhouse:5127827007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior EMC Design Engineer, Air Vehicles",
@@ -6222,7 +6222,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5168587007",
+    "dedupeKey": "greenhouse:5168587007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Energy Systems Engineer",
@@ -6248,7 +6248,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5118040007",
+    "dedupeKey": "greenhouse:5118040007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Firmware Engineer, Embedded Systems",
@@ -6275,7 +6275,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5111819007",
+    "dedupeKey": "greenhouse:5111819007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Flight Test Engineer",
@@ -6296,7 +6296,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5093870007",
+    "dedupeKey": "greenhouse:5093870007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior FPGA Engineer, EW",
@@ -6317,7 +6317,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-4588656007",
+    "dedupeKey": "greenhouse:4588656007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior GNC Engineer, Robotics",
@@ -6335,7 +6335,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-4911548007",
+    "dedupeKey": "greenhouse:4911548007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Guidance, Navigation & Control (GNC) Engineer, Air Dominance & Strike",
@@ -6356,7 +6356,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-4926001007",
+    "dedupeKey": "greenhouse:4926001007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Low Observables Engineer, RCS",
@@ -6381,7 +6381,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5154534007",
+    "dedupeKey": "greenhouse:5154534007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Machine Vision Engineer, Manufacturing Automation ",
@@ -6405,7 +6405,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5150294007",
+    "dedupeKey": "greenhouse:5150294007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Manufacturing Engineer",
@@ -6426,7 +6426,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5125841007",
+    "dedupeKey": "greenhouse:5125841007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Manufacturing Engineer, Electronic Warfare",
@@ -6449,7 +6449,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5081814007",
+    "dedupeKey": "greenhouse:5081814007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Manufacturing Engineer, New Product Introduction (NPI), Sentry",
@@ -6473,7 +6473,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5079266007",
+    "dedupeKey": "greenhouse:5079266007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Manufacturing Engineer, Space Systems",
@@ -6509,7 +6509,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5167151007",
+    "dedupeKey": "greenhouse:5167151007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Manufacturing Equipment Engineer, Intelligence Systems",
@@ -6532,7 +6532,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5149974007",
+    "dedupeKey": "greenhouse:5149974007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Manufacturing Quality Engineer",
@@ -6553,7 +6553,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5147222007",
+    "dedupeKey": "greenhouse:5147222007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Materials Engineer - Composites ",
@@ -6574,7 +6574,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5163914007",
+    "dedupeKey": "greenhouse:5163914007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Mechanical Engineer, Advanced Targeting & Sensing Systems",
@@ -6596,7 +6596,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5147787007",
+    "dedupeKey": "greenhouse:5147787007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Mechanical Engineer, Counter Intrusion",
@@ -6615,7 +6615,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5116188007",
+    "dedupeKey": "greenhouse:5116188007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Mechanical Engineer, Rocket Motor Systems",
@@ -6634,7 +6634,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5118036007",
+    "dedupeKey": "greenhouse:5118036007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Motor Controls Engineer",
@@ -6660,7 +6660,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5173854007",
+    "dedupeKey": "greenhouse:5173854007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior NPI Engineer, Actuators",
@@ -6679,7 +6679,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-4980618007",
+    "dedupeKey": "greenhouse:4980618007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Packaging Engineer, Electromechanical Hardware",
@@ -6697,7 +6697,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5139048007",
+    "dedupeKey": "greenhouse:5139048007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior PCB Designer, High-Speed Digital",
@@ -6721,7 +6721,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5149969007",
+    "dedupeKey": "greenhouse:5149969007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Product Quality Engineer",
@@ -6742,7 +6742,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5135010007",
+    "dedupeKey": "greenhouse:5135010007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Product Quality Engineer",
@@ -6774,7 +6774,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5174526007",
+    "dedupeKey": "greenhouse:5174526007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Product Sourcing Engineer",
@@ -6797,7 +6797,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5131257007",
+    "dedupeKey": "greenhouse:5131257007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Product Sourcing Engineer, Contract Manufacturing",
@@ -6821,7 +6821,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-4936900007",
+    "dedupeKey": "greenhouse:4936900007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Product Sourcing Engineer, Intelligence Systems (Active Clearance)",
@@ -6846,7 +6846,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5118745007",
+    "dedupeKey": "greenhouse:5118745007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Product Sourcing Engineer, Raw Materials",
@@ -6867,7 +6867,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5166489007",
+    "dedupeKey": "greenhouse:5166489007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Propulsion Engineer",
@@ -6897,7 +6897,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5172472007",
+    "dedupeKey": "greenhouse:5172472007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Reliability Engineer ",
@@ -6921,7 +6921,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5035100007",
+    "dedupeKey": "greenhouse:5035100007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior RF Integration Engineer, Electronic Warfare",
@@ -6944,7 +6944,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5040554007",
+    "dedupeKey": "greenhouse:5040554007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Robotics Engineer, Manufacturing Automation ",
@@ -6979,7 +6979,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5047323007",
+    "dedupeKey": "greenhouse:5047323007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Robotics Software Engineer, Maritime",
@@ -7002,7 +7002,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-4932882007",
+    "dedupeKey": "greenhouse:4932882007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Software Engineer, Robotics ",
@@ -7030,7 +7030,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5081276007",
+    "dedupeKey": "greenhouse:5081276007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Space Vehicle Electrical Integration and Test Engineer",
@@ -7056,7 +7056,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5144384007",
+    "dedupeKey": "greenhouse:5144384007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Structures Design Engineer, Omen",
@@ -7083,7 +7083,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5136918007",
+    "dedupeKey": "greenhouse:5136918007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Supplier Quality Engineer, Cable & Wire Harness",
@@ -7116,7 +7116,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5091140007",
+    "dedupeKey": "greenhouse:5091140007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Supplier Quality Engineer, PCB/PCBA",
@@ -7140,7 +7140,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-4662257007",
+    "dedupeKey": "greenhouse:4662257007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Systems Engineer",
@@ -7168,7 +7168,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-4912619007",
+    "dedupeKey": "greenhouse:4912619007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Systems Engineer, Air Vehicle Systems, Active Clearance",
@@ -7207,7 +7207,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5169167007",
+    "dedupeKey": "greenhouse:5169167007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Systems Engineer, C2 Integration",
@@ -7230,7 +7230,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5161534007",
+    "dedupeKey": "greenhouse:5161534007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Systems Engineer, Ghost",
@@ -7250,7 +7250,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5086899007",
+    "dedupeKey": "greenhouse:5086899007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Systems Engineer, Omen",
@@ -7281,7 +7281,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5147145007",
+    "dedupeKey": "greenhouse:5147145007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Test and Evaluation Engineer - Mission Autonomy",
@@ -7297,7 +7297,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5109530007",
+    "dedupeKey": "greenhouse:5109530007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Thermal Engineer",
@@ -7319,7 +7319,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5167698007",
+    "dedupeKey": "greenhouse:5167698007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "SeniorTooling Fabricator",
@@ -7342,7 +7342,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-4932360007",
+    "dedupeKey": "greenhouse:4932360007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Software Engineer, Robotics",
@@ -7370,7 +7370,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5169836007",
+    "dedupeKey": "greenhouse:5169836007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Space Special Projects, Chief Engineer ",
@@ -7403,7 +7403,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5114770007",
+    "dedupeKey": "greenhouse:5114770007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Staff Electrical Engineer, Manufacturing Test  (Intelligence Systems)",
@@ -7429,7 +7429,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5167710007",
+    "dedupeKey": "greenhouse:5167710007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Staff Equipment Maintenance Technician",
@@ -7449,7 +7449,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5070664007",
+    "dedupeKey": "greenhouse:5070664007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Staff Flight Test Engineer, Air Dominance & Strike",
@@ -7485,7 +7485,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5147014007",
+    "dedupeKey": "greenhouse:5147014007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Staff Fluid Systems Engineer, Omen",
@@ -7514,7 +7514,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5082600007",
+    "dedupeKey": "greenhouse:5082600007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Staff Manufacturing Engineer, Mechanical Actuation Systems",
@@ -7544,7 +7544,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5009635007",
+    "dedupeKey": "greenhouse:5009635007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Staff Manufacturing Engineer, Special Projects",
@@ -7571,7 +7571,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-4717989007",
+    "dedupeKey": "greenhouse:4717989007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Staff Mission Systems Engineer, Air Dominance & Strike, Active Clearance",
