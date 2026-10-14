@@ -1,5 +1,640 @@
 [
   {
+    "dedupeKey": "job:a0e1eaf2-7621-4855-9a1e-f062032b2524",
+    "companyId": "company_836ffd48c7b0e62aeefda44a2ffcbb1c",
+    "company": "Anduril Industries",
+    "companyDomain": "anduril.com",
+    "role": "2027 Firmware Engineer Intern",
+    "applyUrl": "https://go.landed.jobs/93w8zfb",
+    "location": "Costa Mesa, CA",
+    "locations": [
+      "Costa Mesa, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "hardware_robotics",
+    "level": "intern",
+    "skills": [
+      "microcontrollers",
+      "analog and digital designs",
+      "firmware",
+      "bare-metal",
+      "RTOS",
+      "ARM",
+      "AVR",
+      "MSP430",
+      "PIC",
+      "JTAG",
+      "SWD",
+      "Oscilloscopes"
+    ],
+    "posted": "2026-10-13T22:43:34.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$61B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:0c8645c3-8bd0-4673-ad44-ea37a49be689",
+    "companyId": "company_8c529411bc82bdba1703ca5df2acec3c",
+    "company": "Intuitive",
+    "companyDomain": "intuitive.com",
+    "role": "Embedded Software Engineer - Vision",
+    "applyUrl": "https://go.landed.jobs/l9jt4eh",
+    "location": "Sunnyvale, CA",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "C/C++",
+      "embedded Linux",
+      "Python",
+      "JavaScript",
+      "MATLAB",
+      "scripting languages",
+      "imaging devices",
+      "cameras",
+      "light sensors",
+      "video/graphics hardware"
+    ],
+    "posted": "2026-10-13T21:08:08.742Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$13.7B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:8a46ce50-72c4-4b70-9fbc-c5e7ca51e889",
+    "companyId": "company_a9c4f2d6d4a6ffa882a5b9d2aee6c87a",
+    "company": "Nuro",
+    "companyDomain": "nuro.ai",
+    "role": "Senior/Staff Controls Engineer, Core Development",
+    "applyUrl": "https://go.landed.jobs/a7h3heu",
+    "location": "Mountain View, CA",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "hardware_robotics",
+    "level": "senior",
+    "skills": [
+      "embedded C",
+      "C++",
+      "classical and modern controls methods",
+      "ML for Controls",
+      "geometry",
+      "calculus",
+      "probability",
+      "kinematics",
+      "dynamics"
+    ],
+    "posted": "2026-10-13T20:30:26.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "$6B valuation",
+      "Series E"
+    ]
+  },
+  {
+    "dedupeKey": "job:9226afe5-59ba-4b35-9cdf-82d82e9acb64",
+    "companyId": "company_8c529411bc82bdba1703ca5df2acec3c",
+    "company": "Intuitive",
+    "companyDomain": "intuitive.com",
+    "role": "Sr Systems Analyst (Robotic Algorithms and Controls)",
+    "applyUrl": "https://go.landed.jobs/b1beua1",
+    "location": "Sunnyvale, CA",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "hardware_robotics",
+    "level": "senior",
+    "skills": [
+      "C++"
+    ],
+    "posted": "2026-10-13T19:36:22.725Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$13.7B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:c18325b6-511a-448e-a226-b62eb511b486",
+    "companyId": "company_836ffd48c7b0e62aeefda44a2ffcbb1c",
+    "company": "Anduril Industries",
+    "companyDomain": "anduril.com",
+    "role": "Robotics Software Engineer",
+    "applyUrl": "https://go.landed.jobs/gyaatlf",
+    "location": "Costa Mesa, CA",
+    "locations": [
+      "Costa Mesa, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "hardware_robotics",
+    "level": "mid",
+    "skills": [
+      "computer vision",
+      "Rust",
+      "C++"
+    ],
+    "posted": "2026-10-13T17:49:23.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$61B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:ecc689ee-9afb-4e2a-8eee-0d744e030b16",
+    "companyId": "company_8c529411bc82bdba1703ca5df2acec3c",
+    "company": "Intuitive",
+    "companyDomain": "intuitive.com",
+    "role": "Senior Systems Research Engineer – Embodied AI & Robotics",
+    "applyUrl": "https://go.landed.jobs/w2b7q8c",
+    "location": "Sunnyvale, CA",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "hardware_robotics",
+    "level": "senior",
+    "skills": [],
+    "posted": "2026-10-13T17:29:40.914Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$13.7B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:028537c1-ca1d-4258-812e-3d1f0420cd7f",
+    "companyId": "company_ab6dbf28b31577a984afd46b4edc3065",
+    "company": "Qualcomm",
+    "companyDomain": "qualcomm.com",
+    "role": "FPGA Design & Firmware Engineer, Staff",
+    "applyUrl": "https://go.landed.jobs/uug3cx3",
+    "location": "San Diego, CA",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "hardware_robotics",
+    "level": "senior",
+    "skills": [
+      "SystemVerilog",
+      "Verilog",
+      "AMD/Xilinx UltraScale+",
+      "MPSoC",
+      "Versal",
+      "Intel Stratix",
+      "Agilex",
+      "AMD Vivado",
+      "Intel Quartus",
+      "C++",
+      "Python",
+      "Linux"
+    ],
+    "posted": "2026-10-13T13:39:22.294Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$155B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:64d97e90-5ed2-4590-9890-bac9ba9b4622",
+    "companyId": "company_ab6dbf28b31577a984afd46b4edc3065",
+    "company": "Qualcomm",
+    "companyDomain": "qualcomm.com",
+    "role": "FPGA Design & Firmware Engineer, Staff",
+    "applyUrl": "https://go.landed.jobs/mkxd60h",
+    "location": "San Diego, CA",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "hardware_robotics",
+    "level": "staff",
+    "skills": [
+      "SystemVerilog/Verilog",
+      "RTL/HDL design",
+      "AMD/Xilinx UltraScale+",
+      "AMD Vivado",
+      "Intel Quartus",
+      "C++",
+      "Python",
+      "AXI",
+      "PCIe",
+      "Ethernet",
+      "I2C",
+      "Linux"
+    ],
+    "posted": "2026-10-13T13:39:22.294Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$155B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:7f8533d2-9d55-4f6e-9c02-f5b65a396ea4",
+    "companyId": "company_ab6dbf28b31577a984afd46b4edc3065",
+    "company": "Qualcomm",
+    "companyDomain": "qualcomm.com",
+    "role": "Senior Embedded Software Engineer",
+    "applyUrl": "https://go.landed.jobs/hosiv2x",
+    "location": "San Diego, CA",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "C, C++, Java, Python",
+      "AI code‑assist tools (e.g., Claude, Copilot)",
+      "embedded systems and application software",
+      "embedded processors",
+      "GNSS receivers and location-based systems",
+      "3GPP location and data protocols"
+    ],
+    "posted": "2026-10-13T13:39:22.294Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$155B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:a83a671e-4a5e-46ad-88ca-090bb72beaf9",
+    "companyId": "company_ab6dbf28b31577a984afd46b4edc3065",
+    "company": "Qualcomm",
+    "companyDomain": "qualcomm.com",
+    "role": "Firmware Development Engineer, Sr. Staff",
+    "applyUrl": "https://go.landed.jobs/fyc30sg",
+    "location": "Santa Clara, CA +2",
+    "locations": [
+      "Santa Clara, CA",
+      "Austin, TX",
+      "San Diego, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "embedded firmware development",
+      "RTOS or OS Kernel environments",
+      "embedded OSes such as Zephyr, eCos, uC/OS or FreeRTOS",
+      "pre-silicon environments including simulators and FPGA emulation",
+      "ARM v8 architecture"
+    ],
+    "posted": "2026-10-13T13:39:22.294Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$155B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:72e84812-7444-4c59-8ba5-b7f8bf8630fd",
+    "companyId": "company_8c529411bc82bdba1703ca5df2acec3c",
+    "company": "Intuitive",
+    "companyDomain": "intuitive.com",
+    "role": "Engineering Director, Advanced Product Development",
+    "applyUrl": "https://go.landed.jobs/qnmn6pj",
+    "location": "Sunnyvale, CA",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "hardware_robotics",
+    "level": "director",
+    "skills": [],
+    "posted": "2026-10-13T04:16:57.331Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$13.7B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:e2490077-205e-493f-bcc5-47c055effb93",
+    "companyId": "company_5f3ed25a8fbe17e0ec38fb3fc85bf8e5",
+    "company": "Waymo",
+    "companyDomain": "waymo.com",
+    "role": "2027 Summer Intern, MS/PhD, Perception, Model Lifecycle",
+    "applyUrl": "https://go.landed.jobs/owm8j99",
+    "location": "Mountain View, CA",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "intern",
+    "skills": [
+      "training and evaluating deep learning models in JAX, PyTorch, or TensorFlow",
+      "data side of ML, such as building datasets, data curation, labeling, or data quality analysis",
+      "programming skills in Python",
+      "end-to-end ML project where you owned both the data and the model",
+      "data-centric ML, such as data selection, active learning, data valuation, or curriculum learning",
+      "perception tasks such as 3D detection, tracking, segmentation, or multimodal (camera and lidar) models",
+      "processing large datasets with distributed tools such as Apache Beam, Spark, or Dataflow"
+    ],
+    "posted": "2026-10-12T22:03:20.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "$126B valuation",
+      "Series D"
+    ]
+  },
+  {
+    "dedupeKey": "job:adc84de5-d034-4ab0-a6d5-d00a8eae0313",
+    "companyId": "company_a9c4f2d6d4a6ffa882a5b9d2aee6c87a",
+    "company": "Nuro",
+    "companyDomain": "nuro.ai",
+    "role": "Senior Controls Engineer, Vehicle Integration",
+    "applyUrl": "https://go.landed.jobs/aiu13uw",
+    "location": "Mountain View, CA",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "hardware_robotics",
+    "level": "senior",
+    "skills": [
+      "ISO 26262",
+      "vehicle dynamics",
+      "classical and modern controls methods",
+      "embedded C/C++",
+      "Automated Driving systems",
+      "high-fidelity vehicle dynamics models",
+      "learning based (ML) controllers",
+      "Powertrain and/or chassis controls",
+      "functional safety"
+    ],
+    "posted": "2026-10-12T21:48:09.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "$6B valuation",
+      "Series E"
+    ]
+  },
+  {
+    "dedupeKey": "job:f496cebb-a158-43e7-b42e-bf6504675163",
+    "companyId": "company_cf78b6f4799745743119d32e1ebf89e7",
+    "company": "Valar Atomics",
+    "companyDomain": "valaratomics.com",
+    "role": "Principal Automation and Controls Engineer",
+    "applyUrl": "https://go.landed.jobs/hkwiphs",
+    "location": "Torrance, CA",
+    "locations": [
+      "Torrance, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "hardware_robotics",
+    "level": "principal",
+    "skills": [
+      "PLC",
+      "DCS",
+      "SCADA",
+      "HMI",
+      "ISA-88 batch sequences",
+      "historian infrastructure",
+      "enterprise integration",
+      "IEC 61511"
+    ],
+    "posted": "2026-10-12T17:38:05.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$6B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:60a44ccd-195d-427b-a6c4-7669e6720fc3",
+    "companyId": "company_391f0192e65a6f35421e57e03a4ee596",
+    "company": "Figure",
+    "companyDomain": "figure.ai",
+    "role": "Deployment Engineering Intern",
+    "applyUrl": "https://go.landed.jobs/pwxafp3",
+    "location": "San Jose, CA",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "hardware_robotics",
+    "level": "intern",
+    "skills": [
+      "debugging",
+      "technical writing",
+      "Confluence",
+      "Jira",
+      "Notion"
+    ],
+    "posted": "2026-10-12T17:07:20.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$39B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:824ae1a6-c809-4a36-96e6-68a62dc217d1",
+    "companyId": "company_304c9cc3e90753232472f742381f94f9",
+    "company": "Applied Intuition",
+    "companyDomain": "appliedintuition.com",
+    "role": "Robotic Software Engineer - Aerial Autonomy",
+    "applyUrl": "https://go.landed.jobs/19s9gpf",
+    "location": "Fort Walton Beach, FL",
+    "locations": [
+      "Fort Walton Beach, FL"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "hardware_robotics",
+    "level": "mid",
+    "skills": [
+      "C++",
+      "Docker",
+      "CI/CD"
+    ],
+    "posted": "2026-10-12T13:41:05.458Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$15B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:20ce9ece-a787-484a-8887-d2c6422d1fb8",
+    "companyId": "company_1411e994b70efbb47875c9e3174a2954",
+    "company": "NVIDIA",
+    "companyDomain": "nvidia.com",
+    "role": "Senior Systems Engineer - Autonomous Driving",
+    "applyUrl": "https://go.landed.jobs/tp323zf",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Santa Clara, CA",
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "SOTIF analysis (ISO 21448), functional safety (ISO 26262), and multi-functional architectural trade-off analysis",
+      "AI safety and safety validation for ML-based systems",
+      "large-scale datasets, data science, and analytics workflows",
+      "Python, SQL, and C++"
+    ],
+    "posted": "2026-10-12T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$4.9T valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:93d1bdec-045e-472b-8dc6-f4f94c08fb7a",
+    "companyId": "company_b5b63142bc58c6ae10cf40c55a7d7855",
+    "company": "KLA",
+    "companyDomain": "kla.com",
+    "role": "Sr. Global Instrumentation & Controls Engineer",
+    "applyUrl": "https://go.landed.jobs/m9mlvuq",
+    "location": "Milpitas, CA",
+    "locations": [
+      "Milpitas, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "hardware_robotics",
+    "level": "senior",
+    "skills": [
+      "BMS/SCADA architecture",
+      "controls integration",
+      "facility automation",
+      "PLC (phase-gated project lifecycle) process",
+      "BMS system topology",
+      "integration architecture",
+      "OT/IT boundary requirements",
+      "controls integration protocols (BACnet/IP, Modbus, OPC UA)",
+      "OT/IT network segmentation",
+      "cleanroom",
+      "environmental monitoring system standards",
+      "cybersecurity requirements for OT/building automation networks"
+    ],
+    "posted": "2026-10-12T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$239B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:9de19d2e-f1f2-4ae2-a55e-81e1b05bbcff",
+    "companyId": "company_1411e994b70efbb47875c9e3174a2954",
+    "company": "NVIDIA",
+    "companyDomain": "nvidia.com",
+    "role": "Senior Software Safety Engineer, Halos - Autonomous Vehicles",
+    "applyUrl": "https://go.landed.jobs/y5v514f",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "safety plans, safety analyses reports, safety case documentation, and evidence packets",
+      "FTA, DFA, CCF, FMEA"
+    ],
+    "posted": "2026-10-12T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$4.9T valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:a6294433-0c6a-4554-af90-549244c286a1",
+    "companyId": "company_1411e994b70efbb47875c9e3174a2954",
+    "company": "NVIDIA",
+    "companyDomain": "nvidia.com",
+    "role": "Senior Algorithm Engineer, Map-Perception Fusion",
+    "applyUrl": "https://go.landed.jobs/5c5fh62",
+    "location": "Santa Clara, CA +2",
+    "locations": [
+      "Santa Clara, CA",
+      "Redmond, WA",
+      "Seattle, WA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "embedded systems",
+      "real-time computer vision systems",
+      "designing APIs or software frameworks"
+    ],
+    "posted": "2026-10-12T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$4.9T valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:0a3012bb-e8cd-4406-81e1-587941f49583",
+    "companyId": "company_1411e994b70efbb47875c9e3174a2954",
+    "company": "NVIDIA",
+    "companyDomain": "nvidia.com",
+    "role": "Principal Firmware Engineer - Data Center Server Management",
+    "applyUrl": "https://go.landed.jobs/57jhys6",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Santa Clara, CA",
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "hardware_robotics",
+    "level": "principal",
+    "skills": [
+      "server firmware (BMC)",
+      "data center health management",
+      "SCM (e.g. Git, Perforce)",
+      "Jira"
+    ],
+    "posted": "2026-10-11T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$4.9T valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:f4eedffa-f473-4d38-9b47-139587894a9d",
     "companyId": "company_aa5613ac6586b79175c21e339097bb23",
     "company": "Shield AI",
@@ -129,42 +764,6 @@
       "real-time HIL platforms"
     ],
     "posted": "2026-10-09T23:46:58.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$61B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:aa479d7c-8628-4e8f-a0c0-f269c047d99b",
-    "companyId": "company_836ffd48c7b0e62aeefda44a2ffcbb1c",
-    "company": "Anduril Industries",
-    "companyDomain": "anduril.com",
-    "role": "Senior Power Controls Engineer",
-    "applyUrl": "https://go.landed.jobs/bj0hw8m",
-    "location": "Costa Mesa, CA",
-    "locations": [
-      "Costa Mesa, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "hardware_robotics",
-    "level": "senior",
-    "skills": [
-      "Simulink",
-      "PLECS",
-      "DC/DC converters",
-      "inverters",
-      "motor drives",
-      "SiC",
-      "GaN",
-      "C/C++",
-      "Typhoon HIL",
-      "dSPACE",
-      "OPAL-RT",
-      "EMI mitigation"
-    ],
-    "posted": "2026-10-09T23:46:56.000Z",
     "companyTier": "A",
     "companyBadges": [
       "TrueUp Hot 200",
@@ -710,6 +1309,31 @@
     ]
   },
   {
+    "dedupeKey": "job:319a7b86-2117-42e2-a5e7-ec6e520e8683",
+    "companyId": "company_24518088d9929534199e88eb0d2a46cc",
+    "company": "Analog Devices",
+    "companyDomain": "analog.com",
+    "role": "Senior Robotics Application Engineer (Physical AI)",
+    "applyUrl": "https://go.landed.jobs/y9v7jht",
+    "location": "Wilmington, MA",
+    "locations": [
+      "Wilmington, MA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "senior",
+    "skills": [
+      "Python"
+    ],
+    "posted": "2026-10-08T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "Public"
+    ]
+  },
+  {
     "dedupeKey": "job:4f9e004c-6b9b-40e9-bd6d-1d4c38badfaa",
     "companyId": "company_24518088d9929534199e88eb0d2a46cc",
     "company": "Analog Devices",
@@ -922,35 +1546,6 @@
     ]
   },
   {
-    "dedupeKey": "job:48ce4bce-666d-48d8-bb31-a27f5e5ea1f5",
-    "companyId": "company_836ffd48c7b0e62aeefda44a2ffcbb1c",
-    "company": "Anduril Industries",
-    "companyDomain": "anduril.com",
-    "role": "Systems Engineering Manager, Mission Autonomy",
-    "applyUrl": "https://go.landed.jobs/bottkej",
-    "location": "Costa Mesa, CA · Washington, D.C., DC",
-    "locations": [
-      "Costa Mesa, CA",
-      "Washington, D.C., DC"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "requirements-based testing frameworks",
-      "MBSE methods in SysML",
-      "software development and associated tools/infrastructure (Github, CI/CD pipelines, etc)",
-      "automation in Cameo or Python relevant to Systems Engineering use cases"
-    ],
-    "posted": "2026-10-07T17:07:38.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$61B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:3e124241-410c-44b8-a769-2aa1df4f9655",
     "companyId": "company_326c1133ff747bf6ac05a1edf37cc36b",
     "company": "Commonwealth Fusion Systems",
@@ -1112,31 +1707,6 @@
     ]
   },
   {
-    "dedupeKey": "job:30ad6edf-9f8c-4405-977c-596f90b6a43e",
-    "companyId": "company_8c529411bc82bdba1703ca5df2acec3c",
-    "company": "Intuitive",
-    "companyDomain": "intuitive.com",
-    "role": "Senior Robotic Algorithm and Controls Engineer",
-    "applyUrl": "https://go.landed.jobs/f9y6o6i",
-    "location": "Sunnyvale, CA",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "hardware_robotics",
-    "level": "senior",
-    "skills": [
-      "C++"
-    ],
-    "posted": "2026-10-06T15:03:32.409Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$13.7B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:9cde6ad5-49d5-4666-821d-56385976e7a5",
     "companyId": "company_98d3d735089cfcc193d48cd5b3d6f30d",
     "company": "Rhoda AI",
@@ -1202,128 +1772,6 @@
     ]
   },
   {
-    "dedupeKey": "job:2260c0eb-f214-4780-bfe4-088592aa4afb",
-    "companyId": "company_ab6dbf28b31577a984afd46b4edc3065",
-    "company": "Qualcomm",
-    "companyDomain": "qualcomm.com",
-    "role": "Sr. Embedded Software Engineer",
-    "applyUrl": "https://go.landed.jobs/gpfij1a",
-    "location": "San Diego, CA",
-    "locations": [
-      "San Diego, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "C",
-      "C++",
-      "Java",
-      "Python",
-      "Embedded Linux",
-      "git/Gerrit",
-      "OpenBMC",
-      "IPMI",
-      "Redfish",
-      "PLDM",
-      "MCTP"
-    ],
-    "posted": "2026-10-06T12:33:44.902Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$155B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:712675da-888e-406b-8a8f-81e703eb1cd9",
-    "companyId": "company_ab6dbf28b31577a984afd46b4edc3065",
-    "company": "Qualcomm",
-    "companyDomain": "qualcomm.com",
-    "role": "Senior Embedded Software Engineer (Cloud Edge & Data Center Machine Learning)",
-    "applyUrl": "https://go.landed.jobs/81haqa3",
-    "location": "San Diego, CA",
-    "locations": [
-      "San Diego, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "Python",
-      "Java",
-      "C++"
-    ],
-    "posted": "2026-10-06T12:33:44.902Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$155B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:82366918-a614-494b-9d44-1854272853ec",
-    "companyId": "company_ab6dbf28b31577a984afd46b4edc3065",
-    "company": "Qualcomm",
-    "companyDomain": "qualcomm.com",
-    "role": "Sr. Staff Embedded Software Engineer – Automotive Platforms",
-    "applyUrl": "https://go.landed.jobs/bw6sswn",
-    "location": "San Diego, CA",
-    "locations": [
-      "San Diego, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "staff",
-    "skills": [
-      "C",
-      "C++",
-      "Java",
-      "Python",
-      "Lauterbach Trace32",
-      "JTAG‑based debuggers",
-      "Perforce"
-    ],
-    "posted": "2026-10-06T12:33:44.902Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$155B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:bc4f45da-1dee-4e71-bcb1-926aabe44186",
-    "companyId": "company_ab6dbf28b31577a984afd46b4edc3065",
-    "company": "Qualcomm",
-    "companyDomain": "qualcomm.com",
-    "role": "Staff Embedded Software Engineer – Automotive Platforms",
-    "applyUrl": "https://go.landed.jobs/x0fe59i",
-    "location": "San Diego, CA",
-    "locations": [
-      "San Diego, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "staff",
-    "skills": [
-      "C",
-      "C++",
-      "Java",
-      "Python",
-      "Perforce"
-    ],
-    "posted": "2026-10-06T12:33:44.902Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$155B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:0a558908-6a00-46ad-ae97-98c7082ba56e",
     "companyId": "company_376f7483b0dbe7ed2be5feb2131c8aeb",
     "company": "Harmattan AI",
@@ -1379,91 +1827,6 @@
     "companyBadges": [
       "TrueUp Hot 200",
       "$2B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:319a7b86-2117-42e2-a5e7-ec6e520e8683",
-    "companyId": "company_24518088d9929534199e88eb0d2a46cc",
-    "company": "Analog Devices",
-    "companyDomain": "analog.com",
-    "role": "Senior Robotics Application Engineer (Physical AI)",
-    "applyUrl": "https://go.landed.jobs/y9v7jht",
-    "location": "Wilmington, MA",
-    "locations": [
-      "Wilmington, MA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "Python"
-    ],
-    "posted": "2026-10-06T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:9d47934f-c32e-4216-8b54-354b49a4c115",
-    "companyId": "company_1411e994b70efbb47875c9e3174a2954",
-    "company": "NVIDIA",
-    "companyDomain": "nvidia.com",
-    "role": "Deep Learning Senior Engineer, End-To-End Autonomous Driving",
-    "applyUrl": "https://go.landed.jobs/zlxv9qd",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "LLMs",
-      "VLMs",
-      "VLAs",
-      "Python",
-      "major deep learning frameworks",
-      "LLM/VLM/VLA systems",
-      "building and training large-scale datasets and models"
-    ],
-    "posted": "2026-10-06T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$4.9T valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:c5a20d6b-2fef-4549-9841-52e7d5c92f7d",
-    "companyId": "company_1411e994b70efbb47875c9e3174a2954",
-    "company": "NVIDIA",
-    "companyDomain": "nvidia.com",
-    "role": "Senior Machine Learning Engineer, Perception - Autonomous Driving",
-    "applyUrl": "https://go.landed.jobs/rkebqv2",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Santa Clara, CA",
-      "Wa, Ghana"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "computer vision",
-      "Python",
-      "PyTorch",
-      "TensorFlow"
-    ],
-    "posted": "2026-10-06T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$4.9T valuation"
     ]
   },
   {
@@ -1596,39 +1959,6 @@
     "companyBadges": [
       "TrueUp Power 50",
       "$1.9T valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:88d52571-355f-4115-802d-1a8e0f3a330b",
-    "companyId": "company_1411e994b70efbb47875c9e3174a2954",
-    "company": "NVIDIA",
-    "companyDomain": "nvidia.com",
-    "role": "Senior Engineer, Math Libraries - Consumer and Embedded Platforms",
-    "applyUrl": "https://go.landed.jobs/398kkao",
-    "location": "Santa Clara, CA · Wa, Ghana",
-    "locations": [
-      "Santa Clara, CA",
-      "Wa, Ghana"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "CUDA Math Libraries",
-      "GPU kernel development",
-      "parallel programming",
-      "C++ and Python",
-      "CI/CD systems",
-      "CUDA, GPU-accelerated computing",
-      "MPI, OpenMP, OpenACC, pthreads",
-      "cross-platform software development"
-    ],
-    "posted": "2026-10-05T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$4.9T valuation"
     ]
   },
   {
@@ -1954,60 +2284,6 @@
     ]
   },
   {
-    "dedupeKey": "job:2ea5eb82-9418-4979-abbb-b9f105c14457",
-    "companyId": "company_304c9cc3e90753232472f742381f94f9",
-    "company": "Applied Intuition",
-    "companyDomain": "appliedintuition.com",
-    "role": "Vehicle Controls - Technical Lead",
-    "applyUrl": "https://go.landed.jobs/et4pjq7",
-    "location": "Sunnyvale, CA",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "hardware_robotics",
-    "level": "senior",
-    "skills": [
-      "modern C++",
-      "quadratic programming",
-      "nonlinear optimization",
-      "calibration pipelines",
-      "system identification tooling"
-    ],
-    "posted": "2026-10-02T20:20:44.475Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$15B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:866919d2-7b90-40d4-980c-a50fc3d23a54",
-    "companyId": "company_8c529411bc82bdba1703ca5df2acec3c",
-    "company": "Intuitive",
-    "companyDomain": "intuitive.com",
-    "role": "Robotic Algorithm and Controls Engineer",
-    "applyUrl": "https://go.landed.jobs/ilq0p99",
-    "location": "Sunnyvale, CA",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "hardware_robotics",
-    "level": "mid",
-    "skills": [
-      "C++"
-    ],
-    "posted": "2026-10-02T19:26:00.152Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$13.7B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:b74ca358-dd32-4360-be09-54b66b687ed6",
     "companyId": "company_4eadc19bb5185234cf2cf97c52dea939",
     "company": "ALSO",
@@ -2096,36 +2372,6 @@
     ]
   },
   {
-    "dedupeKey": "job:4a077372-a619-437d-9a33-1e8fd088c0ca",
-    "companyId": "company_1411e994b70efbb47875c9e3174a2954",
-    "company": "NVIDIA",
-    "companyDomain": "nvidia.com",
-    "role": "Senior Radar Perception Engineer, Obstacle Foundation Models - Autonomous Vehicles",
-    "applyUrl": "https://go.landed.jobs/ufv8eot",
-    "location": "Santa Clara, CA · US",
-    "locations": [
-      "Santa Clara, CA",
-      "US"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "deep learning–based perception, radar signal processing",
-      "PyTorch",
-      "Python and/or C++",
-      "radar-based or multi-modal perception solutions for autonomous driving or robotics using deep learning",
-      "CUDA development"
-    ],
-    "posted": "2026-10-02T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$4.9T valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:ad681564-3f3c-4cd7-b29e-4c6aad697a90",
     "companyId": "company_95f7086c3326ac6678721a29203cfa1a",
     "company": "FieldAI",
@@ -2171,65 +2417,6 @@
     "companyBadges": [
       "TrueUp Hot 200",
       "$15.8B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:4c37e744-c423-4020-b005-b54f329777cb",
-    "companyId": "company_8c529411bc82bdba1703ca5df2acec3c",
-    "company": "Intuitive",
-    "companyDomain": "intuitive.com",
-    "role": "Manager, Systems Analysis (Robotic Algorithms and Control)",
-    "applyUrl": "https://go.landed.jobs/7yr87lb",
-    "location": "Sunnyvale, CA",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "hardware_robotics",
-    "level": "mid",
-    "skills": [],
-    "posted": "2026-10-01T17:24:45.854Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$13.7B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:9adbc393-5c13-46de-9da0-a0919ff786a2",
-    "companyId": "company_8c529411bc82bdba1703ca5df2acec3c",
-    "company": "Intuitive",
-    "companyDomain": "intuitive.com",
-    "role": "Senior Embedded Configuration Release Engineer",
-    "applyUrl": "https://go.landed.jobs/084wpyt",
-    "location": "Sunnyvale, CA",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "Bazel builds",
-      "ElasticSearch",
-      "Kibana",
-      "Fluentbit",
-      "Logstash",
-      "cross compilers toolchains",
-      "gnu gcc",
-      "CMake",
-      "EMake",
-      "Make",
-      "Jenkins",
-      "BitBucket"
-    ],
-    "posted": "2026-10-01T17:14:23.315Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$13.7B valuation"
     ]
   },
   {
@@ -2413,42 +2600,6 @@
       "numerical optimization",
       "image processing",
       "hardware-in-the-loop experimentation"
-    ],
-    "posted": "2026-09-30T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$239B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:69124ee1-1e71-4acf-9241-4605b1c6d11a",
-    "companyId": "company_b5b63142bc58c6ae10cf40c55a7d7855",
-    "company": "KLA",
-    "companyDomain": "kla.com",
-    "role": "Mechatronics Engineering Internship",
-    "applyUrl": "https://go.landed.jobs/15grust",
-    "location": "Milpitas, CA",
-    "locations": [
-      "Milpitas, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "hardware_robotics",
-    "level": "intern",
-    "skills": [
-      "control systems",
-      "machine learning algorithms",
-      "Matlab",
-      "building GUIs in Matlab",
-      "System Dynamics and Identification",
-      "Signal processing",
-      "Predictive Maintenance",
-      "Modeling of mechanical systems",
-      "validation of hardware systems",
-      "data collection",
-      "data analysis",
-      "tuning algorithms"
     ],
     "posted": "2026-09-30T00:00:00.000Z",
     "companyTier": "A",
@@ -2795,32 +2946,6 @@
     "companyBadges": [
       "TrueUp Hot 200",
       "$1.8B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:75c9667a-9783-468f-aad1-00f2831f5721",
-    "companyId": "company_5f3ed25a8fbe17e0ec38fb3fc85bf8e5",
-    "company": "Waymo",
-    "companyDomain": "waymo.com",
-    "role": "2027 Summer Intern, MS/PhD, Systems Engineer, Autonomous Vehicle Networks & Diagnostics",
-    "applyUrl": "https://go.landed.jobs/jt7jzyn",
-    "location": "Mountain View, CA",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "hardware_robotics",
-    "level": "intern",
-    "skills": [
-      "High fluency with AI-based tooling and AI code generation",
-      "Hands-on experience in autonomous vehicles, robotics (ROS/ROS2), Formula SAE, EcoCAR, or embedded systems projects"
-    ],
-    "posted": "2026-09-25T20:33:28.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "$126B valuation",
-      "Series D"
     ]
   },
   {
@@ -3576,7 +3701,7 @@
     "companyId": "company_bc305df375bbb7f42633ad74e6e558c2",
     "company": "Meter",
     "companyDomain": "meter.com",
-    "role": "Firmware Engineer, Data Center",
+    "role": "Firmware Engineer, Data Centers",
     "applyUrl": "https://go.landed.jobs/xya173o",
     "location": "San Francisco, CA · Sunnyvale, CA",
     "locations": [
@@ -4462,178 +4587,315 @@
     ]
   },
   {
-    "dedupeKey": "job:0e988881-799f-40a9-9427-761f544b2307",
-    "companyId": "company_2a8a2947f800aa872b423391bcf6e8ce",
-    "company": "Hark",
-    "companyDomain": "hark.com",
-    "role": "Embedded DevOps Engineer",
-    "applyUrl": "https://go.landed.jobs/54qpjl4",
-    "location": "San Jose, CA",
+    "dedupeKey": "job:9bdf3533-3d2a-4199-982b-3502bde88f96",
+    "companyId": "company_4ccf2fd66701575f6f9741a05f00fc5a",
+    "company": "John Deere",
+    "companyDomain": "deere.com",
+    "role": "Robotics Engineer",
+    "applyUrl": "https://go.landed.jobs/ydmc10w",
+    "location": "Urbandale, IA",
     "locations": [
-      "San Jose, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "CI/CD pipeline automation",
-      "GitHub Actions",
-      "GitLab CI",
-      "shell scripting",
-      "Python",
-      "Git",
-      "OTA systems",
-      "Linux system administration",
-      "AOSP build systems",
-      "hardware-in-the-loop (HIL) testing",
-      "FPGA simulation"
-    ],
-    "posted": "2026-09-11T22:58:44.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$6B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:465a4fe1-4c6c-41ac-9fd2-c4b771a5894d",
-    "companyId": "company_48903a64fb9cfbae281779a45706fb68",
-    "company": "Verkada",
-    "companyDomain": "verkada.com",
-    "role": "Senior Embedded Engineer - Command Connector",
-    "applyUrl": "https://go.landed.jobs/yl7cqur",
-    "location": "San Mateo, CA",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "hardware_robotics",
-    "level": "senior",
-    "skills": [
-      "Linux internals",
-      "C",
-      "C++",
-      "Rust",
-      "Go",
-      "embedded development",
-      "low-level system software development",
-      "operating systems",
-      "computer architecture",
-      "kernel oops/panic traces",
-      "GPU driver issues",
-      "Networking internals"
-    ],
-    "posted": "2026-09-11T21:22:26.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hardware 50",
-      "$5.8B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:86aafde3-8787-4884-ba62-506608262723",
-    "companyId": "company_11d05872aecf1305e93ea677fa9f5ba3",
-    "company": "Lightmatter",
-    "companyDomain": "lightmatter.co",
-    "role": "Embedded Software Engineer, Lasers",
-    "applyUrl": "https://go.landed.jobs/f888eqy",
-    "location": "Boston, MA",
-    "locations": [
-      "Boston, MA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "embedded software",
-      "firmware",
-      "FreeRTOS",
-      "Zephyr",
-      "GDB",
-      "JTAG",
-      "logic analyzers",
-      "oscilloscopes",
-      "Git",
-      "CMake",
-      "closed-loop control",
-      "test automation"
-    ],
-    "posted": "2026-09-11T19:44:06.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hardware 50",
-      "$4.4B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:0730bc79-b985-455f-a7af-106a79f16aa8",
-    "companyId": "company_85223ad3091ff191fc392b96afccd0d7",
-    "company": "Hadrian",
-    "companyDomain": "hadrian.co",
-    "role": "Automation Controls Engineer",
-    "applyUrl": "https://go.landed.jobs/8g4sdw0",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
+      "Urbandale, IA"
     ],
     "remote": "",
     "region": "us",
     "family": "hardware_robotics",
     "level": "",
     "skills": [
-      "PLC software architectures",
-      "industrial robot programming and control",
-      "Fanuc",
-      "ABB",
-      "KUKA",
-      "relational and time-series databases",
-      "Postgres",
-      "MySQL"
+      "C++",
+      "Python",
+      "TensorFlow"
     ],
-    "posted": "2026-09-11T17:37:04.940Z",
-    "companyTier": "A",
+    "posted": "2026-10-13T00:04:32.029Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Hot 200",
-      "$8B valuation"
+      "Public"
     ]
   },
   {
-    "dedupeKey": "job:80914e9f-785c-47ab-b1d2-315cd8dcb324",
-    "companyId": "company_bddada7e458128a7d473752c2433d72f",
-    "company": "Apptronik",
-    "companyDomain": "apptronik.com",
-    "role": "Controls Engineer - Actuation",
-    "applyUrl": "https://go.landed.jobs/xqogrug",
-    "location": "Austin, TX",
+    "dedupeKey": "job:59388228-6e38-4bab-bcee-dc754efdd7c4",
+    "companyId": "company_fadb933e10d3fc3dba65bdde4c675c1d",
+    "company": "Cisco",
+    "companyDomain": "cisco.com",
+    "role": "Software Engineer Embedded Systems II (Full Time) - United States",
+    "applyUrl": "https://go.landed.jobs/ft2nb7i",
+    "location": "San Jose, CA +10",
     "locations": [
-      "Austin, TX"
+      "San Jose, CA",
+      "Georgia",
+      "Austin, TX",
+      "Boston, MA",
+      "Dallas, TX",
+      "Fulton, MD",
+      "Hillsboro, OR",
+      "Knoxville, TN",
+      "Milpitas, CA",
+      "New York City, NY",
+      "US"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "mid",
+    "skills": [
+      "C",
+      "C++",
+      "embedded Linux",
+      "RTOS",
+      "POSIX-compliant operating system environments",
+      "Python",
+      "CI/CD pipelines",
+      "device drivers",
+      "kernel modules",
+      "Board Support Packages (BSPs)",
+      "bootloaders (U-Boot, UEFI)"
+    ],
+    "posted": "2026-10-13T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:8ba3c7fb-6089-4a2e-8d37-4a5a8a5df444",
+    "companyId": "company_e4c2522143c259d1413833f8a2d7cfd9",
+    "company": "AutoStore",
+    "companyDomain": "autostoresystem.com",
+    "role": "Electronics and Embedded Systems Engineer",
+    "applyUrl": "https://go.landed.jobs/hp2ynue",
+    "location": "Atlanta, GA",
+    "locations": [
+      "Atlanta, GA"
     ],
     "remote": "",
     "region": "us",
     "family": "hardware_robotics",
+    "level": "entry",
+    "skills": [
+      "developing firmware for resource constrained devices",
+      "writing unit tests",
+      "Agile development methodologies",
+      "using oscilloscopes, logic analyzers, etc.",
+      "problem-solving skills",
+      "communication skills across organizational levels"
+    ],
+    "posted": "2026-10-13T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$7.7B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:d445c3a0-f4fe-47d2-ad54-1d9660466f19",
+    "companyId": "company_233ef15e4d1ccef95f9f542d004f1d23",
+    "company": "Divergent Technologies",
+    "companyDomain": "divergent3d.com",
+    "role": "Director, Automation & Controls Engineering",
+    "applyUrl": "https://go.landed.jobs/9h4gax2",
+    "location": "Torrance, CA",
+    "locations": [
+      "Torrance, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "hardware_robotics",
+    "level": "director",
+    "skills": [
+      "PLC",
+      "HMI",
+      "SCADA",
+      "motion control",
+      "robotics",
+      "machine-safety systems",
+      "industrial automation",
+      "controls",
+      "simulation",
+      "offline programming",
+      "virtual commissioning"
+    ],
+    "posted": "2026-10-12T17:56:04.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$2.3B valuation",
+      "Series E"
+    ]
+  },
+  {
+    "dedupeKey": "job:0adbac17-0486-48c7-97ba-4c0d3de52196",
+    "companyId": "company_d053a52470e71086531f20bbe8d8af5a",
+    "company": "Varda Space Industries",
+    "companyDomain": "varda.com",
+    "role": "Senior Embedded Software Engineer",
+    "applyUrl": "https://go.landed.jobs/e5zf0l1",
+    "location": "El Segundo, CA",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "C++",
+      "bare metal",
+      "RTOS",
+      "Linux",
+      "Python",
+      "Rust"
+    ],
+    "posted": "2026-10-12T00:05:23.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$500M valuation",
+      "Series C"
+    ]
+  },
+  {
+    "dedupeKey": "job:3367caf1-00e4-4419-ad88-46e3a2c81ad2",
+    "companyId": "company_80641756e29e927f68609b3cba4f009d",
+    "company": "Join Zimmer Biomet for Exceptional Career Opportunities",
+    "companyDomain": "zimmerbiomet.com",
+    "role": "Robotic Finisher",
+    "applyUrl": "https://go.landed.jobs/270bhv1",
+    "location": "Warsaw, IN",
+    "locations": [
+      "Warsaw, IN"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "hardware_robotics",
+    "level": "",
+    "skills": [],
+    "posted": "2026-10-12T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:42ab2653-1562-4170-9944-5a827288cac7",
+    "companyId": "company_0b0a2e208e003d9ffe3c5fae5c685c0c",
+    "company": "Medtronic",
+    "companyDomain": "medtronic.com",
+    "role": "Field Service Engineer (4+ years)",
+    "applyUrl": "https://go.landed.jobs/cu0imdc",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Columbus, OH",
+      "Pittsburgh, PA",
+      "Rochester, MN",
+      "Reno, NV",
+      "Tulsa, OK",
+      "Las Vegas, NV",
+      "Detroit, MI",
+      "Kansas City, MO",
+      "Louisville, KY",
+      "Greenville, NC",
+      "Baltimore, MD",
+      "St. Louis, MO",
+      "Minneapolis, MN",
+      "Phoenix, AZ"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "hardware_robotics",
     "level": "mid",
     "skills": [
-      "C++/Python engineering",
-      "motor electromechanics",
-      "system-identification",
-      "actuator-level control",
-      "simulator integration",
-      "controller design",
-      "dynamometers",
-      "motor test stands",
-      "lab instrumentation",
-      "motor thermal modeling",
-      "gearbox efficiency / backlash characterization",
-      "Docker with GPU/cloud experiment infrastructure"
+      "installation, maintenance, repair, and troubleshooting of Hugo systems",
+      "installing, maintaining, troubleshooting, and repairing complex equipment or integrated systems",
+      "supporting customers in a field-based technical service environment",
+      "servicing medical devices in hospital or clinical settings",
+      "robotics, automation, or motion control systems",
+      "troubleshooting electromechanical or biomedical equipment"
     ],
-    "posted": "2026-09-11T14:13:09.000Z",
-    "companyTier": "A",
+    "posted": "2026-10-12T00:00:00.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Hardware 50",
-      "$5B valuation"
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:841313b7-0490-45dc-9b35-31129d289ce4",
+    "companyId": "company_9a07434be71a9928b313a764639073c9",
+    "company": "Hewlett Packard Enterprise",
+    "companyDomain": "hpe.com",
+    "role": "Firmware Engineering Intern",
+    "applyUrl": "https://go.landed.jobs/0yrz8bw",
+    "location": "Sunnyvale, CA",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "hardware_robotics",
+    "level": "intern",
+    "skills": [
+      "Excellent problem-solving skills"
+    ],
+    "posted": "2026-10-12T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$74.2B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:9814dd8b-dab3-4b0b-910a-f665a931bfdf",
+    "companyId": "company_0b0a2e208e003d9ffe3c5fae5c685c0c",
+    "company": "Medtronic",
+    "companyDomain": "medtronic.com",
+    "role": "Sr Controls Engineer",
+    "applyUrl": "https://go.landed.jobs/dc6rteg",
+    "location": "Lafayette, CO",
+    "locations": [
+      "Lafayette, CO"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "hardware_robotics",
+    "level": "senior",
+    "skills": [],
+    "posted": "2026-10-12T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:d9fc008c-e78d-4747-abb1-d21809c9b218",
+    "companyId": "company_0486ed1955fd223522b64bbe7c18dcb8",
+    "company": "Semtech",
+    "companyDomain": "semtech.com",
+    "role": "Senior Firmware Engineer",
+    "applyUrl": "https://go.landed.jobs/n3ith5s",
+    "location": "San Diego, CA",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "hardware_robotics",
+    "level": "senior",
+    "skills": [
+      "embedded firmware",
+      "mixed-signal circuits",
+      "ML-based inference firmware",
+      "FPGA prototyping",
+      "bare-metal firmware",
+      "I2C",
+      "I3C",
+      "SPI",
+      "MIPI",
+      "JTAG",
+      "PCIe",
+      "Matlab"
+    ],
+    "posted": "2026-10-12T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$11B valuation",
+      "Public"
     ]
   },
   {
@@ -4784,37 +5046,6 @@
     ]
   },
   {
-    "dedupeKey": "job:11dcb1ae-319a-4853-a31e-5f19dfa20a0e",
-    "companyId": "company_d053a52470e71086531f20bbe8d8af5a",
-    "company": "Varda Space Industries",
-    "companyDomain": "varda.com",
-    "role": "Senior Space Embedded Software Engineer",
-    "applyUrl": "https://go.landed.jobs/ghw9so0",
-    "location": "El Segundo, CA",
-    "locations": [
-      "El Segundo, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "C++",
-      "bare metal",
-      "RTOS",
-      "Linux",
-      "embedded processors",
-      "Python",
-      "Rust"
-    ],
-    "posted": "2026-10-08T18:49:56.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$500M valuation",
-      "Series C"
-    ]
-  },
-  {
     "dedupeKey": "job:3875ccf5-5e3c-491a-bd96-ba40ab9d1cfe",
     "companyId": "company_0fa1df6c14b8d03e56708aa1751f26de",
     "company": "WHOOP",
@@ -4882,6 +5113,34 @@
     "companyBadges": [
       "YC F24",
       "Seed"
+    ]
+  },
+  {
+    "dedupeKey": "job:ac11ad2a-f07c-48a7-a324-95bfee768687",
+    "companyId": "company_75bfd51f25521a9f6db5e5e8b6b0fc4b",
+    "company": "BAE Systems",
+    "companyDomain": "baesystems.com",
+    "role": "Entry Level Hardware Engineer - Electrical/Power/Firmware/RF (Hybrid)",
+    "applyUrl": "https://go.landed.jobs/nkwne8m",
+    "location": "Nashua, NH +2",
+    "locations": [
+      "Nashua, NH",
+      "Manchester, NH",
+      "Hudson, NH"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "hardware_robotics",
+    "level": "entry",
+    "skills": [
+      "Power Supply/Systems Design",
+      "VHDL Programing language",
+      "PSPICE or equivalent analog circuit simulation tool"
+    ],
+    "posted": "2026-10-08T05:02:41.094Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
     ]
   },
   {
@@ -5138,6 +5397,36 @@
     ]
   },
   {
+    "dedupeKey": "job:6a9a6102-8027-4bb3-b680-f04703ac668c",
+    "companyId": "company_75bfd51f25521a9f6db5e5e8b6b0fc4b",
+    "company": "BAE Systems",
+    "companyDomain": "baesystems.com",
+    "role": "Embedded Software Engineer - All Levels",
+    "applyUrl": "https://go.landed.jobs/wm94aog",
+    "location": "Austin, TX · Endicott, NY",
+    "locations": [
+      "Austin, TX",
+      "Endicott, NY"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "mid",
+    "skills": [
+      "C/C++/Assembly",
+      "Green Hills",
+      "ARM Development Studio",
+      "PowerPC",
+      "ARM",
+      "x86"
+    ],
+    "posted": "2026-10-06T18:03:46.587Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
     "dedupeKey": "job:86ea5fcc-3277-41ea-abbe-d0beaa489d4c",
     "companyId": "company_be853799505b8a4a37fb817690c14f0e",
     "company": "Mariana Minerals",
@@ -5172,78 +5461,6 @@
     "companyTier": "B",
     "companyBadges": [
       "$1.5B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:1eb93f16-bbd7-4523-8db8-6f22a6ef6701",
-    "companyId": "company_d053a52470e71086531f20bbe8d8af5a",
-    "company": "Varda Space Industries",
-    "companyDomain": "varda.com",
-    "role": "Senior Automation & Controls Engineer",
-    "applyUrl": "https://go.landed.jobs/wrdm7ry",
-    "location": "El Segundo, CA",
-    "locations": [
-      "El Segundo, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "hardware_robotics",
-    "level": "senior",
-    "skills": [
-      "PLC framework",
-      "Beckhoff EtherCAT",
-      "EtherCAT",
-      "Modbus (TCP/RTU)",
-      "RS-232/485 serial",
-      "Beckhoff TwinCAT 3",
-      "structured text (IEC 61131-3)",
-      "TwinCAT 3",
-      "structured text",
-      "IEC 61131-3 language suite",
-      "deterministic, hard real-time control loops",
-      "high-pressure gas or fluid systems"
-    ],
-    "posted": "2026-10-06T15:11:40.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$500M valuation",
-      "Series C"
-    ]
-  },
-  {
-    "dedupeKey": "job:0e30cf13-d6b7-4606-923b-b358f5cb9c86",
-    "companyId": "company_d053a52470e71086531f20bbe8d8af5a",
-    "company": "Varda Space Industries",
-    "companyDomain": "varda.com",
-    "role": "Automation & Controls Engineer II",
-    "applyUrl": "https://go.landed.jobs/c7prujd",
-    "location": "El Segundo, CA",
-    "locations": [
-      "El Segundo, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "hardware_robotics",
-    "level": "mid",
-    "skills": [
-      "PLC framework",
-      "Beckhoff EtherCAT",
-      "EtherCAT",
-      "Modbus (TCP/RTU)",
-      "RS-232/485 serial",
-      "Beckhoff TwinCAT 3",
-      "structured text (IEC 61131-3)",
-      "TwinCAT 3",
-      "structured text",
-      "IEC 61131-3 language suite",
-      "deterministic, hard real-time control loops",
-      "high-pressure gas or fluid systems"
-    ],
-    "posted": "2026-10-06T15:10:48.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$500M valuation",
-      "Series C"
     ]
   },
   {
@@ -5720,36 +5937,6 @@
     ]
   },
   {
-    "dedupeKey": "job:6a9a6102-8027-4bb3-b680-f04703ac668c",
-    "companyId": "company_75bfd51f25521a9f6db5e5e8b6b0fc4b",
-    "company": "BAE Systems",
-    "companyDomain": "baesystems.com",
-    "role": "Embedded Software Engineer - All Levels",
-    "applyUrl": "https://go.landed.jobs/wm94aog",
-    "location": "Austin, TX · Endicott, NY",
-    "locations": [
-      "Austin, TX",
-      "Endicott, NY"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "mid",
-    "skills": [
-      "C/C++/Assembly",
-      "Green Hills",
-      "ARM Development Studio",
-      "PowerPC",
-      "ARM",
-      "x86"
-    ],
-    "posted": "2026-10-02T17:03:16.643Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:efb2aa3c-bb28-45c3-bbaa-7833e5c02d10",
     "companyId": "company_4903c82949ab5cfa9d1f77b9ad85296a",
     "company": "Standard Bots",
@@ -5900,28 +6087,6 @@
     "companyTier": "B",
     "companyBadges": [
       "$48.2B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:67b8fbaf-2b7c-4fa0-a4b3-c597ade3f1d5",
-    "companyId": "company_75bfd51f25521a9f6db5e5e8b6b0fc4b",
-    "company": "BAE Systems",
-    "companyDomain": "baesystems.com",
-    "role": "Systems Software Engineering Intern – Embedded Systems",
-    "applyUrl": "https://go.landed.jobs/62p8i56",
-    "location": "Huntsville, AL",
-    "locations": [
-      "Huntsville, AL"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "intern",
-    "skills": [],
-    "posted": "2026-10-01T10:02:37.710Z",
-    "companyTier": "B",
-    "companyBadges": [
       "Public"
     ]
   },
@@ -6170,40 +6335,6 @@
     "companyTier": "B",
     "companyBadges": [
       "$24.9B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:ecce1277-4bc4-48d4-85d9-560658d4f363",
-    "companyId": "company_0b0a2e208e003d9ffe3c5fae5c685c0c",
-    "company": "Medtronic",
-    "companyDomain": "medtronic.com",
-    "role": "Sr. Principal Embedded Software Engineer",
-    "applyUrl": "https://go.landed.jobs/0u69a4n",
-    "location": "Fridley, MN",
-    "locations": [
-      "Fridley, MN"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "principal",
-    "skills": [
-      "RTOS",
-      "Azure RTOS/ThreadX",
-      "oscilloscopes",
-      "logic analyzers",
-      "multimeters",
-      "JTAG",
-      "UART",
-      "IEC 62304",
-      "IEC 60601-1",
-      "Agile-Scrum",
-      "Devops/continuous integration"
-    ],
-    "posted": "2026-09-30T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
       "Public"
     ]
   },
@@ -7153,31 +7284,6 @@
     ]
   },
   {
-    "dedupeKey": "job:974c526b-0ea3-4e93-beae-b52f956d1a10",
-    "companyId": "company_4ccf2fd66701575f6f9741a05f00fc5a",
-    "company": "John Deere",
-    "companyDomain": "deere.com",
-    "role": "Embedded Software Engineer",
-    "applyUrl": "https://go.landed.jobs/glbsvzw",
-    "location": "Iowa, LA",
-    "locations": [
-      "Iowa, LA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "entry",
-    "skills": [
-      "Experience in design, development, and testing software applications.",
-      "Experience working with Ops Center via Embedded Gen4/5 Interfaces."
-    ],
-    "posted": "2026-09-22T00:11:26.683Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:12ecc68b-deee-45c7-b951-38fbc6cc97e4",
     "companyId": "company_a0752335a5f22371a3fc1c216c2184ca",
     "company": "Lumentum",
@@ -7328,7 +7434,7 @@
     "companyId": "company_61f00083579a01ef209a8e77edea06ed",
     "company": "MatX",
     "companyDomain": "matx.com",
-    "role": "BMC Firmware Engineer",
+    "role": "Firmware Engineer - Platform & Board Management",
     "applyUrl": "https://go.landed.jobs/5hbmn88",
     "location": "Mountain View, CA",
     "locations": [
@@ -7423,60 +7529,6 @@
     "companyTier": "B",
     "companyBadges": [
       "$14B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:ef76fe25-a788-4897-8770-93952d2c16c8",
-    "companyId": "company_0b0a2e208e003d9ffe3c5fae5c685c0c",
-    "company": "Medtronic",
-    "companyDomain": "medtronic.com",
-    "role": "Field Service Engineer III - San Antonio, TX (Cranial and Spinal Technologies / Surgical Robotics)",
-    "applyUrl": "https://go.landed.jobs/udpmxkm",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US",
-      "San Antonio, TX"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "hardware_robotics",
-    "level": "mid",
-    "skills": [],
-    "posted": "2026-09-21T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:fa328d89-9edf-4203-b10f-42679f2d4c74",
-    "companyId": "company_fadb933e10d3fc3dba65bdde4c675c1d",
-    "company": "Cisco",
-    "companyDomain": "cisco.com",
-    "role": "Software Engineer Embedded Systems I (Intern) – United States",
-    "applyUrl": "https://go.landed.jobs/n82q9uq",
-    "location": "San Jose, CA +3",
-    "locations": [
-      "San Jose, CA",
-      "Milpitas, CA",
-      "US",
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "intern",
-    "skills": [
-      "C",
-      "embedded Linux",
-      "Python",
-      "Bash",
-      "Jenkins"
-    ],
-    "posted": "2026-09-21T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
       "Public"
     ]
   },
@@ -8278,42 +8330,6 @@
     ]
   },
   {
-    "dedupeKey": "job:7f6a1a07-b4bf-430e-a887-705bbc5e92f6",
-    "companyId": "company_9a07434be71a9928b313a764639073c9",
-    "company": "Hewlett Packard Enterprise",
-    "companyDomain": "hpe.com",
-    "role": "Principal Software Engineer, Embedded (RIS)",
-    "applyUrl": "https://go.landed.jobs/9kajt84",
-    "location": "Sunnyvale, CA",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "principal",
-    "skills": [
-      "device drivers",
-      "embedded software",
-      "Network Processor (NPU)",
-      "ASIC devices",
-      "PCIe",
-      "I2C",
-      "FPGA",
-      "Ethernet MAC/PHY",
-      "High Speed Buses",
-      "Ethernet interface",
-      "High-speed PHYs/ SERDES",
-      "Fabric management"
-    ],
-    "posted": "2026-09-15T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$74.2B valuation",
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:3bbe69ea-23be-4e1d-b78c-060158cdf8c6",
     "companyId": "company_3b6a3542f96bfcdc696c25aabe1f1e0e",
     "company": "1X",
@@ -8473,501 +8489,506 @@
     ]
   },
   {
-    "dedupeKey": "job:acc8b52e-4121-4a6b-9634-d66459a00007",
-    "companyId": "company_d4fa0291aa38d380e0c50edb67769b07",
-    "company": "Physical Intelligence",
-    "companyDomain": "physicalintelligence.company",
-    "role": "Embedded Engineer",
-    "applyUrl": "https://go.landed.jobs/1u0xhv5",
-    "location": "San Francisco, CA",
+    "dedupeKey": "job:99d10176-04e8-4c6b-8720-4b7f590e792d",
+    "companyId": "company_f7e1e4731d82fe50b73f6aea41cb77ae",
+    "company": "Wing",
+    "companyDomain": "wing.cloud",
+    "role": "Guidance, Navigation, and Controls Engineering Intern, Summer 2027",
+    "applyUrl": "https://go.landed.jobs/41nx8yl",
+    "location": "Palo Alto, CA",
     "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "hardware_robotics",
-    "level": "",
-    "skills": [
-      "SPI, I2C, UART, USB",
-      "Linux Kernel development",
-      "building data pipelines",
-      "evaluation frameworks",
-      "debugging complex hardware-software interactions",
-      "architecting, implementing and debugging concurrent and multithreaded firmware services",
-      "bringing up and integrating sensors on embedded systems",
-      "camera system bring-up, integration, and tuning",
-      "writing or debugging drivers",
-      "managing device trees",
-      "optimizing kernel-space performance"
-    ],
-    "posted": "2026-09-12T23:21:30.943Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$5.6B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:20f80103-c854-4571-bcb3-10c848a20348",
-    "companyId": "company_226a24c1607086b96a839715378894e7",
-    "company": "Lyft",
-    "companyDomain": "lyft.com",
-    "role": "Firmware Engineering Manager, Lyft Urban Solutions",
-    "applyUrl": "https://go.landed.jobs/x6e4au4",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "hardware_robotics",
-    "level": "senior",
-    "skills": [
-      "C/C++",
-      "embedded systems",
-      "FreeRTOS",
-      "ThreadX",
-      "ARM Cortex-M processors",
-      "electrical bring-up",
-      "embedded debugging",
-      "debug probes",
-      "signal analyzers",
-      "oscilloscopes",
-      "power analyzers",
-      "CAN bus protocols"
-    ],
-    "posted": "2026-09-11T17:04:29.276Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$6B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:33ab424c-cb28-49fd-a928-b202bb4b6a66",
-    "companyId": "company_226a24c1607086b96a839715378894e7",
-    "company": "Lyft",
-    "companyDomain": "lyft.com",
-    "role": "Firmware Engineering Manager, Lyft Urban Solutions",
-    "applyUrl": "https://go.landed.jobs/60klkp9",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
+      "Palo Alto, CA"
     ],
     "remote": "hybrid",
     "region": "us",
     "family": "hardware_robotics",
-    "level": "",
+    "level": "intern",
     "skills": [
-      "firmware",
-      "embedded software",
-      "IoT",
-      "powertrain",
-      "battery management",
-      "OTA update",
-      "CI/CD",
-      "Hardware-in-the-Loop (HIL) testing"
+      "computer vision"
     ],
-    "posted": "2026-09-11T17:04:29.000Z",
-    "companyTier": "B",
+    "posted": "2026-10-13T22:05:01.000Z",
+    "companyTier": "C",
     "companyBadges": [
-      "$6B valuation",
-      "Public"
+      "Seed"
     ]
   },
   {
-    "dedupeKey": "job:64d47405-5b79-4ca8-9ec7-4ea0a6873766",
-    "companyId": "company_1c981def6d6ed2f1d4b7e4f4f61350c2",
-    "company": "AECOM",
-    "companyDomain": "aecom.com",
-    "role": "Senior Instrumentation & Controls Engineer",
-    "applyUrl": "https://go.landed.jobs/o4a3t84",
+    "dedupeKey": "job:13a7b999-6f74-4e29-9dbd-00fdad5acaa5",
+    "companyId": "company_f7e1e4731d82fe50b73f6aea41cb77ae",
+    "company": "Wing",
+    "companyDomain": "wing.cloud",
+    "role": "Motion Planning Software Engineering Intern, Summer 2027",
+    "applyUrl": "https://go.landed.jobs/jh7kb9a",
+    "location": "Palo Alto, CA",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "intern",
+    "skills": [
+      "path planning",
+      "navigation",
+      "C++",
+      "Python"
+    ],
+    "posted": "2026-10-13T22:00:01.000Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Seed"
+    ]
+  },
+  {
+    "dedupeKey": "job:46a3bd07-3662-43a4-b2c4-113a5b225e9c",
+    "companyId": "company_f7e1e4731d82fe50b73f6aea41cb77ae",
+    "company": "Wing",
+    "companyDomain": "wing.cloud",
+    "role": "Hardware Reliability Intern (Mechatronics), Summer 2027",
+    "applyUrl": "https://go.landed.jobs/hli2mgz",
+    "location": "Palo Alto, CA",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "hardware_robotics",
+    "level": "intern",
+    "skills": [
+      "debugging, troubleshooting, or investigating hardware failures",
+      "selecting, wiring, and controlling Brushless DC (BLDC) motors, stepper motors, or servo actuators"
+    ],
+    "posted": "2026-10-13T22:00:01.000Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Seed"
+    ]
+  },
+  {
+    "dedupeKey": "job:b26e7751-0b22-4928-9e27-4d27f5fa0c5e",
+    "companyId": "company_e3d6f381cc239ce2a91b9b48b68b83d3",
+    "company": "Formic",
+    "companyDomain": "formic.co",
+    "role": "Robotics Field Service Technician",
+    "applyUrl": "https://go.landed.jobs/f8k7c50",
     "location": "🌐 Remote (US)",
     "locations": [
-      "Denver, CO"
+      "Minneapolis, MN",
+      "US"
     ],
     "remote": "remote",
     "region": "remote",
     "family": "hardware_robotics",
-    "level": "senior",
+    "level": "",
     "skills": [],
-    "posted": "2026-09-11T14:54:47.246Z",
-    "companyTier": "B",
+    "posted": "2026-10-13T21:10:28.000Z",
+    "companyTier": "C",
     "companyBadges": [
-      "Public"
+      "Series B"
     ]
   },
   {
-    "dedupeKey": "job:64e8fc2d-6df9-4af1-a8f4-ce612af08497",
-    "companyId": "company_b854342f47338bc33adc4bf1834c27f9",
-    "company": "Tektronix",
-    "companyDomain": "ralliant.com",
-    "role": "Software/Firmware Verification Engineer",
-    "applyUrl": "https://go.landed.jobs/ugpyq3v",
-    "location": "Solon, OH",
+    "dedupeKey": "job:67133ca2-fd78-4f19-ba44-ac92b065c9e8",
+    "companyId": "company_5fd485f23a8d44260a8bb51814538180",
+    "company": "Firestorm",
+    "companyDomain": "launchfirestorm.com",
+    "role": "Senior Mechanical Engineer, UAV",
+    "applyUrl": "https://go.landed.jobs/2xl5iym",
+    "location": "San Diego, CA",
     "locations": [
-      "Solon, OH"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "mid",
-    "skills": [
-      "Python",
-      "Git",
-      "Jira",
-      "SCPI",
-      "VISA",
-      "IVI",
-      "LXI-compliant instruments",
-      "digital multimeters (DMMs)",
-      "source measure units (SMUs)",
-      "oscilloscopes",
-      "power supplies",
-      "data acquisition systems"
-    ],
-    "posted": "2026-10-10T00:05:45.970Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:c94fd243-bf36-4a01-9fd1-2d8e053a6077",
-    "companyId": "company_3fa7b1a2527b326a48851c9e70531b1c",
-    "company": "Riot Games",
-    "companyDomain": "riotgames.com",
-    "role": "Manager, Anti-Cheat Engineering (Embedded Vanguard) - Central Technology, Anti-Cheat",
-    "applyUrl": "https://go.landed.jobs/mduoahz",
-    "location": "Los Angeles, CA +2",
-    "locations": [
-      "Los Angeles, CA",
-      "Mercer Island, WA",
-      "Redwood City, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "mid",
-    "skills": [
-      "Android and/or iOS platform security models",
-      "mobile native (C/C++) SDKs and/or frameworks",
-      "Android and/or iOS build tools (Android SDK/NDK, Xcode, LLVM)",
-      "mobile reverse engineering tools (Frida, IDA Pro, Radare2, etc)",
-      "Gen9 Console (Xbox Series XS and/or PS5) development",
-      "macOS platform and security features"
-    ],
-    "posted": "2026-10-09T20:54:09.000Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:23df91cc-d953-48f8-ad78-32c31e778c3c",
-    "companyId": "company_912645652c84795f5ef25af3ad6aca73",
-    "company": "Scout Motors",
-    "companyDomain": "scoutmotors.com",
-    "role": "Manager, Embedded Platform Engineering",
-    "applyUrl": "https://go.landed.jobs/lfwt3eq",
-    "location": "Charlotte, NC",
-    "locations": [
-      "Charlotte, NC"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "AWS",
-      "GitHub",
-      "GitHub Actions",
-      "ArgoCD",
-      "Kargo",
-      "Docker",
-      "Crossplane",
-      "Kubernetes"
-    ],
-    "posted": "2026-10-09T19:46:47.000Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:edf7f353-7fb2-4e1c-81a1-47657345d91a",
-    "companyId": "company_20cccc47ad19a298b5a1e5357464e993",
-    "company": "HavocAI",
-    "companyDomain": "havocai.com",
-    "role": "Vehicle Autonomy Integration Engineer",
-    "applyUrl": "https://go.landed.jobs/66w5vb7",
-    "location": "North Kingstown, RI",
-    "locations": [
-      "North Kingstown, RI"
+      "San Diego, CA"
     ],
     "remote": "",
     "region": "us",
     "family": "hardware_robotics",
-    "level": "",
+    "level": "senior",
+    "skills": [],
+    "posted": "2026-10-13T20:10:13.233Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series A"
+    ]
+  },
+  {
+    "dedupeKey": "job:d2c14ac7-578d-47df-a95d-d65d784cfd7f",
+    "companyId": "company_ad6886644b10e4650a40cb184f895e6a",
+    "company": "Carbon Robotics",
+    "companyDomain": "carbonrobotics.com",
+    "role": "2027 Summer Intern",
+    "applyUrl": "https://go.landed.jobs/ab7i46u",
+    "location": "Seattle, WA",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "hardware_robotics",
+    "level": "intern",
     "skills": [
-      "C++",
+      "computer vision",
+      "AI",
+      "robotics",
+      "high-powered lasers",
+      "CAD tooling",
+      "circuit design",
+      "hardware prototyping",
       "Python",
-      "Bash",
-      "Linux",
+      "Go",
+      "JavaScript/React",
+      "machine learning pipelines",
+      "algorithms"
+    ],
+    "posted": "2026-10-13T18:07:10.000Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series D"
+    ]
+  },
+  {
+    "dedupeKey": "job:4c40d15b-b298-4733-8ec2-c50375d47fdf",
+    "companyId": "company_0d7bb78f0861e8b733b53c1ca26b1a16",
+    "company": "AIM Intelligent Machines",
+    "companyDomain": "aim.vision",
+    "role": "Principal Robotics Learning Engineer",
+    "applyUrl": "https://go.landed.jobs/tv381cx",
+    "location": "Seattle, WA",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "hardware_robotics",
+    "level": "principal",
+    "skills": [
+      "fine-tuning",
+      "C++"
+    ],
+    "posted": "2026-10-13T07:30:08.693Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series A"
+    ]
+  },
+  {
+    "dedupeKey": "job:7f06dbdf-a062-421f-ad4e-c09457b2c788",
+    "companyId": "company_0d7bb78f0861e8b733b53c1ca26b1a16",
+    "company": "AIM Intelligent Machines",
+    "companyDomain": "aim.vision",
+    "role": "Principal Controls Engineer",
+    "applyUrl": "https://go.landed.jobs/4z7n61h",
+    "location": "Seattle, WA",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "hardware_robotics",
+    "level": "principal",
+    "skills": [
+      "Python",
+      "C++"
+    ],
+    "posted": "2026-10-13T07:27:00.346Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series A"
+    ]
+  },
+  {
+    "dedupeKey": "job:de9abc38-9eb8-4d27-8b8b-385da346f991",
+    "companyId": "company_c31e51d8b4c8d0f29d1a15fa230c98cd",
+    "company": "Rainmaker",
+    "companyDomain": "rainmaker.com",
+    "role": "Embedded Software Engineer",
+    "applyUrl": "https://go.landed.jobs/op0d6e5",
+    "location": "El Segundo, CA",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "hardware_robotics",
+    "level": "mid",
+    "skills": [
+      "Rust",
+      "C/C++",
       "CAN",
-      "serial",
-      "Ethernet",
-      "UDP/TCP",
-      "MQTT",
-      "MAVLink",
-      "GPS/INS"
+      "UART",
+      "SPI",
+      "I2C",
+      "version control",
+      "reproducible builds",
+      "automated testing"
     ],
-    "posted": "2026-10-09T16:18:59.516Z",
+    "posted": "2026-10-13T00:52:59.631Z",
     "companyTier": "C",
     "companyBadges": [
       "Series A"
     ]
   },
   {
-    "dedupeKey": "job:0d9eef57-6739-46dc-82d9-19ba43950e8e",
-    "companyId": "company_a05bd45f497b34674abe782c685e0c7a",
-    "company": "Voyager Space",
-    "companyDomain": "voyagertechnologies.com",
-    "role": "Robotics Software Engineer",
-    "applyUrl": "https://go.landed.jobs/nuw4395",
-    "location": "Pittsburgh, PA",
+    "dedupeKey": "job:ee0724a0-be15-4cb4-9dcd-0043b01cb997",
+    "companyId": "company_b19288baf19c787db41379d83fe45e77",
+    "company": "Rivian and Volkswagen Group Technologies",
+    "companyDomain": "rivianvw.tech",
+    "role": "Staff Embedded Software Engineer, Infotainment Connectivity",
+    "applyUrl": "https://go.landed.jobs/t6jecs6",
+    "location": "Palo Alto, CA",
     "locations": [
-      "Pittsburgh, PA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "hardware_robotics",
-    "level": "mid",
-    "skills": [],
-    "posted": "2026-10-09T15:01:50.000Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:1f309333-4b3e-4751-8c99-b0e0e9b2dfc6",
-    "companyId": "company_6b455f56aabd9126ad58d8c15e56b1c3",
-    "company": "Monumental",
-    "companyDomain": "terraform.ai",
-    "role": "Founding Robot Operator, US",
-    "applyUrl": "https://go.landed.jobs/x7spva6",
-    "location": "San Antonio, TX",
-    "locations": [
-      "San Antonio, TX"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "hardware_robotics",
-    "level": "",
-    "skills": [
-      "Atrium",
-      "masonry robots"
-    ],
-    "posted": "2026-10-09T12:45:53.879Z",
-    "companyTier": "C",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:488a7b2b-0307-4fc8-aa01-f170ec19be2f",
-    "companyId": "company_1f0648b23610903db429ad0e6bb37a8b",
-    "company": "CynLr",
-    "companyDomain": "cynlr.com",
-    "role": "Solution Architect - Robotics & Automation | US",
-    "applyUrl": "https://go.landed.jobs/76luk69",
-    "location": "US",
-    "locations": [
-      "US"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "hardware_robotics",
-    "level": "",
-    "skills": [],
-    "posted": "2026-10-09T08:13:49.714Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Series A"
-    ]
-  },
-  {
-    "dedupeKey": "job:35fdd4bd-babd-4316-825b-6748bad544a4",
-    "companyId": "company_6454707596c74aafd19f5bdb51941ee3",
-    "company": "Ambi Robotics",
-    "companyDomain": "ambirobotics.com",
-    "role": "Robot Operator/Technician (Hammond, LA)",
-    "applyUrl": "https://go.landed.jobs/024qcml",
-    "location": "Hammond, LA",
-    "locations": [
-      "Hammond, LA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "hardware_robotics",
-    "level": "",
-    "skills": [
-      "Basic technical skills for software, mechanical, and electrical engineering",
-      "Product support engineering experience in electro-mechanical hardware and software systems"
-    ],
-    "posted": "2026-10-09T04:21:19.744Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Series A"
-    ]
-  },
-  {
-    "dedupeKey": "job:2b142514-2de8-4b68-933b-a312d09d886d",
-    "companyId": "company_a15935c13742e59c1e47e56376cbb930",
-    "company": "XDOF",
-    "companyDomain": "xdof.ai",
-    "role": "Member of Technical Staff, System Integration",
-    "applyUrl": "https://go.landed.jobs/1h1yscm",
-    "location": "San Mateo, CA",
-    "locations": [
-      "San Mateo, CA"
+      "Palo Alto, CA"
     ],
     "remote": "hybrid",
     "region": "us",
-    "family": "hardware_robotics",
-    "level": "mid",
+    "family": "software_engineering",
+    "level": "staff",
     "skills": [
-      "Python / C++",
-      "ROS / ROS2",
-      "camera system integration and calibration",
-      "ZED / RealSense or similar RGB-D / stereo cameras",
-      "robotic arm control interfaces (e.g., UR / Franka / xArm)",
-      "robot hardware interfaces (CAN, EtherCAT, RS485, USB)",
-      "sensor integration (IMU, depth cameras, force/torque sensors)",
-      "PyTorch",
-      "AI coding tools (e.g., Claude Code, Cursor)",
-      "Diffusion Policy, ACT, and VLA",
-      "VIVE Trackers, OptiTrack, and motion capture gloves",
-      "video encoding/decoding (H.264 / H.265 / Jetson hardware codecs)"
+      "C/C++",
+      "Embedded Linux",
+      "QNX",
+      "DriveOS",
+      "hypervisor-based systems",
+      "Snapdragon",
+      "NVIDIA Orin",
+      "MediaTek",
+      "Python",
+      "shell",
+      "Lauterbach",
+      "JTAG"
     ],
-    "posted": "2026-10-09T02:32:23.479Z",
+    "posted": "2026-10-13T00:04:17.453Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:b4c3d22a-d2f6-4bf4-81fc-003e4e327024",
+    "companyId": "company_b19288baf19c787db41379d83fe45e77",
+    "company": "Rivian and Volkswagen Group Technologies",
+    "companyDomain": "rivianvw.tech",
+    "role": "Sr. Embedded Software Engineer, RTOS",
+    "applyUrl": "https://go.landed.jobs/zx03mz2",
+    "location": "Palo Alto, CA",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "C/C++",
+      "Python",
+      "Rust",
+      "FreeRTOS",
+      "SafeRTOS",
+      "SPI",
+      "I2C",
+      "UART",
+      "CAN",
+      "Ethernet",
+      "GPIO",
+      "timers"
+    ],
+    "posted": "2026-10-13T00:02:38.780Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:10891c66-55fb-4f50-ae80-86df1396582d",
+    "companyId": "company_c371082566b5c57272a6ea183b62ef17",
+    "company": "Aerones",
+    "companyDomain": "aerones.com",
+    "role": "Field Robotics Operator US",
+    "applyUrl": "https://go.landed.jobs/cipb5ki",
+    "location": "Dallas, TX +5",
+    "locations": [
+      "Dallas, TX",
+      "Topeka, KS",
+      "Oklahoma City, OK",
+      "Little Rock, AR",
+      "New Orleans, LA",
+      "Kansas City, MO"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "hardware_robotics",
+    "level": "",
+    "skills": [],
+    "posted": "2026-10-13T00:00:00.000Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:d082d8fb-1367-4e0d-9ff6-838d9d00a5e8",
+    "companyId": "company_c5b697e21c871922b2b977c5ba4a1a24",
+    "company": "Exotec",
+    "companyDomain": "exotec.com",
+    "role": "Industrial Equipment Operator - Warehouse Robotics",
+    "applyUrl": "https://go.landed.jobs/f86vbqv",
+    "location": "Phillipsburg, NJ",
+    "locations": [
+      "Phillipsburg, NJ"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "hardware_robotics",
+    "level": "",
+    "skills": [],
+    "posted": "2026-10-13T00:00:00.000Z",
     "companyTier": "C",
-    "companyBadges": []
+    "companyBadges": [
+      "$2B valuation"
+    ]
   },
   {
-    "dedupeKey": "job:0af80a2a-3be3-4277-8938-993eb9638953",
-    "companyId": "company_8d135fac342cdcc8d0a8e4f65e992572",
-    "company": "2020 Companies",
-    "companyDomain": "2020companies.com",
-    "role": "Key Account Manager – Industrial & Manufacturing Robotics",
-    "applyUrl": "https://go.landed.jobs/yjvtdbu",
-    "location": "New York City, NY",
+    "dedupeKey": "job:ff607f6c-8444-40eb-ba8e-4705e900edf9",
+    "companyId": "company_0689e265eaf9d2599ec4e0b5445957b2",
+    "company": "Aurelius Systems",
+    "companyDomain": "aureliussystems.com",
+    "role": "Robotics Software Engineer",
+    "applyUrl": "https://go.landed.jobs/0k2okay",
+    "location": "San Francisco, CA · Detroit, MI",
     "locations": [
-      "New York City, NY"
+      "San Francisco, CA",
+      "Detroit, MI"
     ],
     "remote": "",
     "region": "us",
     "family": "hardware_robotics",
     "level": "",
     "skills": [],
-    "posted": "2026-10-09T00:00:00.000Z",
-    "companyTier": "U",
-    "companyBadges": []
+    "posted": "2026-10-12T20:31:01.404Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series A"
+    ]
   },
   {
-    "dedupeKey": "job:1d114f1b-0d0a-49fb-9b2f-b4ece6e2fe1a",
-    "companyId": "company_8d135fac342cdcc8d0a8e4f65e992572",
-    "company": "2020 Companies",
-    "companyDomain": "2020companies.com",
-    "role": "Partner & Channel Development Manager – Robotics",
-    "applyUrl": "https://go.landed.jobs/t5uteom",
-    "location": "Sunnyvale, CA",
+    "dedupeKey": "job:e5231ecd-1166-4cb7-90c4-4fbffa89b015",
+    "companyId": "company_d7912bb454eda264e87fdabad7b408a8",
+    "company": "Furientis",
+    "companyDomain": "furientis.com",
+    "role": "Embedded Firmware Engineer, Avionics",
+    "applyUrl": "https://go.landed.jobs/f69dtj9",
+    "location": "Los Angeles, CA",
     "locations": [
-      "Sunnyvale, CA"
+      "Los Angeles, CA"
     ],
     "remote": "",
     "region": "us",
     "family": "hardware_robotics",
     "level": "",
-    "skills": [],
-    "posted": "2026-10-09T00:00:00.000Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:34ee7389-a986-4933-9552-cd158c4effe1",
-    "companyId": "company_995cec19d78dab39d834fb3e266ebd4a",
-    "company": "Boston Dynamics",
-    "companyDomain": "bostondynamics.com",
-    "role": "Applications/Integration Engineer- RMAC",
-    "applyUrl": "https://go.landed.jobs/3ww4dsu",
-    "location": "Savannah, GA",
-    "locations": [
-      "Savannah, GA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "hardware_robotics",
-    "level": "mid",
     "skills": [
-      "Linux (Ubuntu)",
-      "JIRA",
-      "Tableau"
+      "C/C++",
+      "Rust",
+      "Python",
+      "embedded Linux",
+      "device trees",
+      "drivers",
+      "sensor configuration",
+      "interrupts",
+      "DMA",
+      "oscilloscopes",
+      "logic analyzers"
     ],
-    "posted": "2026-10-09T00:00:00.000Z",
-    "companyTier": "U",
-    "companyBadges": []
+    "posted": "2026-10-12T17:57:23.459Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Pre-seed"
+    ]
   },
   {
-    "dedupeKey": "job:38271279-eee3-4fd9-ad44-fccd6193ac6f",
-    "companyId": "company_8d135fac342cdcc8d0a8e4f65e992572",
-    "company": "2020 Companies",
-    "companyDomain": "2020companies.com",
-    "role": "Key Account Manager – Events & Hospitality Robotics",
-    "applyUrl": "https://go.landed.jobs/n0ijosn",
-    "location": "New York City, NY",
+    "dedupeKey": "job:56e50f24-3bc9-4c95-89f1-db4c702b95c3",
+    "companyId": "company_29c0642383836dc385939e07f4f516b5",
+    "company": "Star Catcher",
+    "companyDomain": "star-catcher.com",
+    "role": "Senior Software Engineer - Embedded & Flight Systems I",
+    "applyUrl": "https://go.landed.jobs/4cqmlge",
+    "location": "Jacksonville, FL",
     "locations": [
-      "New York City, NY"
+      "Jacksonville, FL"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "embedded software",
+      "ARM Cortex-M",
+      "ARM Cortex-A",
+      "RISC-V",
+      "Real-Time Operating Systems",
+      "RTEMS",
+      "FreeRTOS",
+      "VxWorks",
+      "LynxOS",
+      "INTEGRITY",
+      "Zephyr",
+      "Docker"
+    ],
+    "posted": "2026-10-12T17:56:26.000Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series A"
+    ]
+  },
+  {
+    "dedupeKey": "job:dc6072af-2d9e-4b0e-941f-aa45f3c27104",
+    "companyId": "company_01caebf43aa647e382ce86ea60c5e64d",
+    "company": "Samsung Research America",
+    "companyDomain": "sra.samsung.com",
+    "role": "Senior Staff, Robotics Systems Architect - Robot Intelligence",
+    "applyUrl": "https://go.landed.jobs/acofgod",
+    "location": "Mountain View, CA",
+    "locations": [
+      "Mountain View, CA"
     ],
     "remote": "",
     "region": "us",
     "family": "hardware_robotics",
-    "level": "",
-    "skills": [],
-    "posted": "2026-10-09T00:00:00.000Z",
+    "level": "staff",
+    "skills": [
+      "Python",
+      "C++",
+      "Docker",
+      "CI/CD"
+    ],
+    "posted": "2026-10-12T15:24:30.000Z",
     "companyTier": "U",
     "companyBadges": []
   },
   {
-    "dedupeKey": "job:3da11b0a-0a52-468c-92e2-e43271a3c8cc",
-    "companyId": "company_8d135fac342cdcc8d0a8e4f65e992572",
-    "company": "2020 Companies",
-    "companyDomain": "2020companies.com",
-    "role": "Key Account Manager – EdTech & Robotics",
-    "applyUrl": "https://go.landed.jobs/z9lvq9e",
-    "location": "Sunnyvale, CA",
+    "dedupeKey": "job:fd14017d-5260-4b9a-96c8-6cd6d1da814c",
+    "companyId": "company_8e572d860e2685d6f03ecdb843240ab9",
+    "company": "Venus Aerospace",
+    "companyDomain": "venusaero.com",
+    "role": "Embedded Software Engineer",
+    "applyUrl": "https://go.landed.jobs/cdusj7z",
+    "location": "Houston, TX",
     "locations": [
-      "Sunnyvale, CA"
+      "Houston, TX"
     ],
     "remote": "",
     "region": "us",
     "family": "hardware_robotics",
-    "level": "",
-    "skills": [],
-    "posted": "2026-10-09T00:00:00.000Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:5598a6d4-6ab2-4ce9-b540-324872a9458d",
-    "companyId": "company_8d135fac342cdcc8d0a8e4f65e992572",
-    "company": "2020 Companies",
-    "companyDomain": "2020companies.com",
-    "role": "Key Account Manager – Events & Hospitality Robotics",
-    "applyUrl": "https://go.landed.jobs/d4fnqdu",
-    "location": "Sunnyvale, CA",
-    "locations": [
-      "Sunnyvale, CA"
+    "level": "senior",
+    "skills": [
+      "developing embedded systems for flight-related systems",
+      "developing software for microcontrollers, SoCs, or embedded CPUs",
+      "read schematics, datasheets, reference manuals, and hardware specifications",
+      "developing real-time embedded software with deterministic timing requirements",
+      "writing unit & integration tests",
+      "create test cases from software requirements",
+      "Requirements tracking and traceability",
+      "interfacing/developing code for FPGAs",
+      "MIL-STD-1553, RS-422, and RS-485",
+      "compliance to DO-178C or MIL-STD-882E standards",
+      "Model-in-the-Loop (MIL), Software-in-the-Loop (SIL), and Hardware-in-the-Loop (HIL) testing",
+      "GitLab pipelines, Atlassian tools (Jira, Confluence)"
     ],
-    "remote": "",
-    "region": "us",
-    "family": "hardware_robotics",
-    "level": "",
-    "skills": [],
-    "posted": "2026-10-09T00:00:00.000Z",
-    "companyTier": "U",
-    "companyBadges": []
+    "posted": "2026-10-12T15:14:00.197Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series B"
+    ]
   }
 ]
