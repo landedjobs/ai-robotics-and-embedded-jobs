@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://go.landed.jobs/gzm44vx"><img src="https://static.b100x.ai/email/landed-wordmark.png" alt="landed" width="180"></a>
+<a href="https://go.landed.jobs/gzm44vx"><picture><source media="(prefers-color-scheme: dark)" srcset="https://static.b100x.ai/github-repos/images/brand/landed-wordmark-dark.png"><img src="https://static.b100x.ai/email/landed-wordmark.png" alt="landed" width="180"></picture></a>
 
 <img src="https://static.b100x.ai/github-repos/images/ai-robotics-and-embedded-jobs/banner.svg" alt="Robotics &amp; Embedded Engineering Jobs" width="100%">
 
