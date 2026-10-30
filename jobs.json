@@ -97,6 +97,36 @@
     ]
   },
   {
+    "dedupeKey": "job:9d03935e-1386-4e29-a150-f84a44c737e5",
+    "companyId": "company_eacb5bc9f84ed8dcef6ea5989b4cd39b",
+    "company": "Redesign Health",
+    "companyDomain": "redesignhealth.com",
+    "role": "Embedded Transformation Engineer",
+    "applyUrl": "https://go.landed.jobs/jn2ip27",
+    "location": "New York City, NY",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "",
+    "skills": [
+      "agent platforms",
+      "coding agents",
+      "eval and observability tooling",
+      "integration tooling",
+      "autonomous coding agents",
+      "HIPAA-compliant clinical workflows"
+    ],
+    "posted": "2026-10-29T14:58:53.803Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp HealthTech 50",
+      "$1.7B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:d45277bc-6736-407c-aa4d-917edf16da0b",
     "companyId": "company_f3ac1dcdf59a10a205d7f6ab1ec41254",
     "company": "SpaceX",
@@ -8393,6 +8423,30 @@
     ]
   },
   {
+    "dedupeKey": "job:0f5acb27-3211-4f3c-91b5-2dc99b7bd962",
+    "companyId": "company_b3018f3c6de6117d336142bb03238de7",
+    "company": "Tutor Intelligence",
+    "companyDomain": "tutorintelligence.com",
+    "role": "Robotics Test & Debug Engineer",
+    "applyUrl": "https://go.landed.jobs/to7s3lt",
+    "location": "Watertown, MA",
+    "locations": [
+      "Watertown, MA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "hardware_robotics",
+    "level": "",
+    "skills": [
+      "go"
+    ],
+    "posted": "2026-10-29T20:59:38.539Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series A"
+    ]
+  },
+  {
     "dedupeKey": "job:d7c3952b-d4ee-4e6d-8db8-672c9ed55609",
     "companyId": "company_6534ca3597bbc3418fd4063705617a40",
     "company": "Toyota Research Institute",
@@ -8801,6 +8855,30 @@
     "companyBadges": []
   },
   {
+    "dedupeKey": "job:f2acc5b2-026a-4208-963e-033bf0a11deb",
+    "companyId": "company_68767e82c4962622286a0532b62808a3",
+    "company": "Zoox",
+    "companyDomain": "zoox.com",
+    "role": "Contract Student Worker - Autonomy and Geofence Expansion (20 hrs/wk)",
+    "applyUrl": "https://go.landed.jobs/b1d0p30",
+    "location": "Foster City, CA",
+    "locations": [
+      "Foster City, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "intern",
+    "skills": [
+      "AI tools such as ChatGPT, Claude or Gemini",
+      "Pyspark",
+      "SQL"
+    ],
+    "posted": "2026-10-28T15:03:59.646Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
     "dedupeKey": "job:ce3ad426-1e76-473b-a339-0c5332280628",
     "companyId": "company_c794a87d5321887ba519e9967e83cb43",
     "company": "Motional",
@@ -8923,85 +9001,5 @@
     "posted": "2026-10-28T00:00:00.000Z",
     "companyTier": "C",
     "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:3d0995d2-4137-468a-a99b-83dc1793b6bb",
-    "companyId": "company_ae3d4ff0f2fc8ddc7325b92f063f5d75",
-    "company": "Blue Origin",
-    "companyDomain": "blueorigin.com",
-    "role": "Embedded Software Engineer III",
-    "applyUrl": "https://go.landed.jobs/1a9k715",
-    "location": "Denver, CO +2",
-    "locations": [
-      "Denver, CO",
-      "Huntsville, AL",
-      "Reston, VA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "embedded software development",
-      "Python",
-      "flight software",
-      "DevOps",
-      "CI/CD pipeline development",
-      "automated testing frameworks",
-      "Git",
-      "Jenkins"
-    ],
-    "posted": "2026-10-28T00:00:00.000Z",
-    "companyTier": "C",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:3f3c3738-8d8b-4d76-ba3f-f661f65b7a42",
-    "companyId": "company_5490aaf73efb0f0f828da68ba551725b",
-    "company": "Gabletek Robotics and Controls Solutions",
-    "companyDomain": "gabletek.com",
-    "role": "Fanuc Robot Programmer",
-    "applyUrl": "https://go.landed.jobs/gzn7vak",
-    "location": "Flint, MI",
-    "locations": [
-      "Flint, MI"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "hardware_robotics",
-    "level": "",
-    "skills": [
-      "FANUC robot programming",
-      "troubleshooting"
-    ],
-    "posted": "2026-10-28T00:00:00.000Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:1edaf46e-06c2-4d50-a750-784f6870047d",
-    "companyId": "company_706933e40a7caa02dfc7be996047d94f",
-    "company": "Humble Robotics",
-    "companyDomain": "humblerobotics.ai",
-    "role": "Autonomy Engineer, Data",
-    "applyUrl": "https://go.landed.jobs/u6l4tyz",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [
-      "Python",
-      "software engineering fundamentals",
-      "building software to process and organize data"
-    ],
-    "posted": "2026-10-27T23:53:13.980Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Seed"
-    ]
   }
 ]
