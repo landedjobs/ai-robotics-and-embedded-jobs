@@ -3505,38 +3505,6 @@
     ]
   },
   {
-    "dedupeKey": "job:b5b2f18d-f22a-47c0-8e95-92cb5f1e6b38",
-    "companyId": "company_9f62e15b04dbf6e6b51ff32857c48294",
-    "company": "Lila Sciences",
-    "companyDomain": "lila.ai",
-    "role": "Co-Op, Robot Perception & State Estimation",
-    "applyUrl": "https://go.landed.jobs/ns9pjr2",
-    "location": "Cambridge, MA",
-    "locations": [
-      "Cambridge, MA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "hardware_robotics",
-    "level": "intern",
-    "skills": [
-      "Python",
-      "C++",
-      "ROS 2",
-      "OpenCV",
-      "AprilTags",
-      "camera calibration",
-      "Gazebo",
-      "GitHub Actions"
-    ],
-    "posted": "2026-10-27T13:34:38.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$1.3B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:b83233c7-7ef8-438d-aef5-98ab953d9530",
     "companyId": "company_984f0c83ba347bb558e109a0887fa3d9",
     "company": "Tractian",
@@ -7648,5 +7616,29 @@
     "companyBadges": [
       "Series D"
     ]
+  },
+  {
+    "dedupeKey": "job:817b73ed-791c-4fbe-9e3c-93faaae1103a",
+    "companyId": "company_9b17386913a951a0109004329844f4fb",
+    "company": "Atoms",
+    "companyDomain": "atoms.co",
+    "role": "Embedded Software QA Engineer - San Francisco",
+    "applyUrl": "https://go.landed.jobs/4pgwxh3",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "Python",
+      "C++",
+      "CI/CD"
+    ],
+    "posted": "2026-11-19T17:23:25.000Z",
+    "companyTier": "C",
+    "companyBadges": []
   }
 ]
